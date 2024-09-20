@@ -97,7 +97,7 @@ const _griTable = [
   },
 ]
 const SituationThird = () => {
-  const [plateId, setPlateId] = useState('35001')
+  const [plateId, setPlateId] = useState('35000')
   const [currentOrder, setCurrentOrder] = useState([])
   const [data, setData] = useState({})
   const [time, setTimer] = useState(0)

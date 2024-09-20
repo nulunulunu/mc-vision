@@ -108,12 +108,11 @@ const SituationFirst = () => {
     // getDataAndSet()
     async function getDataAndSet() {
       const { data: newData = [] } = await queryTemp()
-      console.log(newData[0], data, data.current[0], 'fffff')
       if (
         newData[0] &&
         data.current[0] &&
-        newData[0].uuid &&
-        newData[0].uuid === data.current[0].uuid &&
+        newData[0].trackingId == data.current[0].trackingId &&
+        newData[0].skuType == data.current[0].skuType &&
         newData[0].stage > data.current[0].stage &&
         newData[0].stage === 3
       ) {
@@ -125,32 +124,32 @@ const SituationFirst = () => {
         if (newData[0].skuType === 0) {
           setChartTable([
             ..._chartTable,
-            { name: '6', before: newData[0].preTemp, after: newData[0].temp },
+            { name: ''+_chartTable.length, before: newData[0].preTemp, after: newData[0].temp },
           ])
         } else {
           setGriTable([
             ..._griTable,
-            { name: '6', before: newData[0].preTemp, after: newData[0].temp },
+            { name: ''+_griTable.length, before: newData[0].preTemp, after: newData[0].temp },
           ])
         }
       }
       if (
         newData[1] &&
         data.current[1] &&
-        newData[1].uuid &&
-        newData[1].uuid === data.current[1]?.uuid &&
+        newData[1].trackingId === data.current[1]?.trackingId &&
+        newData[1].skuType === data.current[1]?.skuType &&
         newData[1].stage > data.current[1]?.stage &&
         newData[1].stage === 3
       ) {
-        if (newData[0].skuType === 0) {
+        if (newData[1].skuType === 0) {
           setChartTable([
             ..._chartTable,
-            { name: '6', before: newData[0].preTemp, after: newData[0].temp },
+            { name: ''+_chartTable.length, before: newData[1].preTemp, after: newData[1].temp },
           ])
         } else {
           setGriTable([
             ..._griTable,
-            { name: '6', before: newData[0].preTemp, after: newData[0].temp },
+            { name: ''+_griTable.length, before: newData[1].preTemp, after: newData[1].temp },
           ])
         }
       }
@@ -243,7 +242,7 @@ const SituationFirst = () => {
         <div className="image"></div>
         <div className="gri-temp">
           <p>今日板烧温度</p>
-          <AreaChart width={400} height={200} data={griTable}>
+          <AreaChart width={400} key={`lc_${griTable.length}`} height={200} data={griTable}>
             <defs>
               <linearGradient id="colorUv" x1="0" y1="0" x2="0" y2="1">
                 <stop offset="5%" stopColor="#FFBA21" stopOpacity={0.8} />

@@ -124,7 +124,7 @@ p {
     background-position: center;
 }
 
-.meat-gri-loading, .meat-gri-unfinished, .meat-gri-unready{
+.meat-gri-loading, .meat-gri-finished, .meat-gri-unready{
     width: 100%;
     height: 65%;
     background-repeat: no-repeat;
