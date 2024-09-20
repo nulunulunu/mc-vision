@@ -1,0 +1,140 @@
+.outer {
+    position: absolute;
+    background-image: url('./circle.png');
+    width: 100%;
+    height: 100%;
+    background-size: 68.85% 1115px;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.inner {
+    position: absolute;
+    background-image: url('./center.png');
+    width: 100%;
+    height: 100%;
+    background-size: 21.77% 42.5%;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.rightTop {
+    position: absolute;
+    background-image: url('./topRight.png');
+    width: 100%;
+    height: 100%;
+    background-size: 26.875% 9.81%;
+    background-repeat: no-repeat;
+    background-position: 70% 38%;
+}
+
+.leftTop-text{
+    position: absolute;
+    width: 200px;
+    height: 40px;
+    left: 22%;
+    top: 32%;
+    display: flex;
+    z-index: 1000;
+    font-size: 28px;
+    color: #fff;
+    align-items: center;
+    justify-content: space-between;
+
+}
+
+.rightTop-text {
+    position: absolute;
+    width: 200px;
+    height: 40px;
+    left: 70%;
+    top: 32%;
+    display: flex;
+    z-index: 1000;
+    font-size: 28px;
+    color: #fff;
+    align-items: center;
+    justify-content: space-between;
+
+}
+.rightBottom-text{
+    position: absolute;
+    width: 200px;
+    height: 40px;
+    left: 70%;
+    top: 65%;
+    display: flex;
+    z-index: 1000;
+    font-size: 28px;
+    color: #fff;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.leftBottom-text{
+    position: absolute;
+    width: 200px;
+    height: 40px;
+    left: 22%;
+    top: 65%;
+    display: flex;
+    z-index: 1000;
+    font-size: 28px;
+    color: #fff;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.left-side-text {
+    /* 矩形 */
+    width: 40px;
+    height: 7px;
+    background: linear-gradient(90deg, rgba(255, 188, 13, 1) 0%, rgba(255, 188, 13, 0) 100%);
+    filter: blur(2px);
+    z-index: 1000;
+}
+
+.right-side-text {
+    /* 矩形 */
+    width: 40px;
+    height: 7px;
+    background: linear-gradient(90deg, rgba(255, 188, 13, 1) 0%, rgba(255, 188, 13, 0) 100%);
+    filter: blur(2px);
+    z-index: 1000;
+    transform: rotate(-180deg);
+}
+
+.rightBottom {
+    position: absolute;
+    background-image: url('./rightBottom.png');
+    width: 100%;
+    height: 100%;
+    background-size: 26.875% 9.81%;
+    background-repeat: no-repeat;
+    background-position: 70% 68%;
+}
+
+.leftTop {
+    position: absolute;
+    background-image: url('./leftTop.png');
+    width: 100%;
+    height: 100%;
+    background-size: 26.875% 9.81%;
+    background-repeat: no-repeat;
+    background-position: 30% 38%;
+}
+
+.leftBottom {
+    position: absolute;
+    background-image: url('./leftBottom.png');
+    width: 100%;
+    height: 100%;
+    background-size: 26.875% 9.81%;
+    background-repeat: no-repeat;
+    background-position: 30% 68%;
+}
+.outer{
+    position: absolute;
+    width: 100%;
+    height: 100%;
+}

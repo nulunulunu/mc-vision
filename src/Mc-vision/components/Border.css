@@ -1,0 +1,35 @@
+.background {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    background-image: url('./background.png');
+    background-size: 100% 100%;
+    display: flex;
+    color: #fff;
+    justify-content: space-between;
+}
+.background-weather{
+    width: 200px;
+    text-align: left;
+    height: 3.7%;
+    display: flex;
+    align-items: center;
+}
+
+.background-title {
+    font-family: 'SimSun';
+    font-size: 29px;
+    /* height: 6.02%; */
+    /* margin-top: 1%; */
+    display: flex;
+    align-items: center;
+}   
+.background-time{
+    width:200px;
+    text-align: right;
+    height: 3.7%;
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+
+}

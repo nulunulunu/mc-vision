@@ -1,5 +1,6 @@
 .App {
   text-align: center;
+  box-sizing: border-box;
 }
 
 .App-logo {
@@ -36,3 +37,25 @@
     transform: rotate(360deg);
   }
 }
+.ant-table-cell{
+  color: #fff!important;
+}
+
+
+.title-tabs{
+  position: absolute;
+  display: flex;
+  flex-direction: row;
+  width: 80%;
+  height: 3.7%;
+  color: #fff;
+  z-index: 1;
+  justify-content: space-evenly;
+  align-items: center;
+  margin-left: 15%;
+  /* padding: 0 10%; */
+  .placeholder{
+      width: 30%;
+  }
+}
+
