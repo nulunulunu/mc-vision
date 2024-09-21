@@ -166,30 +166,35 @@
     padding-left: 10%;
 }
 
+
+.order-title-content {
+    grid-column: 1 / 11;
+    height: 100%;
+    margin-top: 15%;
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    div {
+        color: #fff;
+        padding: 5%;
+        width: 200px;
+    }
+}
+
 .order-success-text {
     background: url('../situationThirdImg/success.png');
     background-position: center;
     background-repeat: no-repeat;
     background-size: 100% 100%;
     color: #fff;
-    height: 45%;
     display: flex;
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    padding-top: 5%;
+    width: 100px!important;
+    height: 100px;
 }
 
-.order-title-content {
-    grid-column: 1 / 4;
-    height: 100%;
-    margin-top: 15%;
-
-    div {
-        color: #fff;
-        padding: 5%;
-    }
-}
 
 .next-order {
     .order-title {

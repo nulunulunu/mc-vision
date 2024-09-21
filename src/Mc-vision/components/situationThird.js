@@ -229,41 +229,13 @@ const SituationThird = () => {
             <div className="order-success-text">
               <p>{(data)?.sucRate + '%'}</p>
             </div>
-            <div>订单总数</div>
-            <div>{(data)?.totalOrderNum}单</div>
-            <div>错误订单</div>
-            <div>{(data)?.errorOrderNum}单</div>
+            <div>
+            <div>订单总数: {(data)?.totalOrderNum}单</div>
+            <div>错误订单 : {(data)?.errorOrderNum}单</div>
+            </div>
           </div>
           <div>
-            <AreaChart
-              width={400}
-              height={300}
-              data={_griTable}
-              margin={{ top: 40, right: 30, left: 0, bottom: 0 }}
-            >
-              <defs>
-                <linearGradient id="colorUv" x1="0" y1="0" x2="0" y2="1">
-                  <stop offset="5%" stopColor="#FFBA21" stopOpacity={0.8} />
-                  <stop offset="95%" stopColor="#FFBA21" stopOpacity={0} />
-                </linearGradient>
-                <linearGradient id="colorPv" x1="0" y1="0" x2="0" y2="1">
-                  <stop offset="5%" stopColor="#82ca9d" stopOpacity={0.8} />
-                  <stop offset="95%" stopColor="#82ca9d" stopOpacity={0} />
-                </linearGradient>
-              </defs>
-              <XAxis dataKey="name" />
-              <YAxis />
-              <CartesianGrid strokeDasharray="3 3" />
-              <Tooltip />
-              <Area
-                type="monotone"
-                dataKey="before"
-                stroke="#8884d8"
-                fillOpacity={1}
-                fill="url(#colorUv)"
-              />
-              {/* <Area type="monotone" dataKey="after" stroke="#82ca9d" fillOpacity={1} fill="url(#colorPv)" /> */}
-            </AreaChart>
+          
           </div>
         </div>
       </div>

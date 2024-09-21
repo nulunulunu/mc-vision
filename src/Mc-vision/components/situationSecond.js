@@ -74,8 +74,8 @@ const _uhcTime = [
 ]
 
 const SituationSecond = () => {
-  const [firstCoven, setFirstCoven] = useState({})
-  const [secondCoven, setSecondCoven] = useState({})
+  const [firstCoven, setFirstCoven] = useState()
+  const [secondCoven, setSecondCoven] = useState()
   const [wasterData, setWasterData] = useState({})
   const [wasterChart, setWasterChart] = useState([])
   const [uhcTime, _setUhcTime] = useState(_uhcTime)
@@ -83,6 +83,24 @@ const SituationSecond = () => {
     if (!item) return ''
     if (item.skuType == 0) return '牛肉'
     return '鸡肉'
+  }
+
+  function getCovenStatus(item){
+    if(!item) return ''
+    if(item.redFlag){
+      return 'red-Flag'
+    }else{
+      return 'pane-used'
+    }
+  }
+
+  function errMsg(item){
+    if(!item) return ''
+    if(item.stockQuantity===0){
+      return '请及时补货'
+    }else if(item.minute==0&&item.second==0){
+      return '请丢弃'
+    }
   }
 
   function getItemTypeBrief(item) {
@@ -147,82 +165,87 @@ const SituationSecond = () => {
           <div className="monitor-container">
             <div
               className={`monitor-coven ${
-                secondCoven ? 'pan-used' : ''
+                getCovenStatus(secondCoven)
               } `}
             >
               <div>
                 {secondCoven
-                  ? getItemType(secondCoven) + ' ' + secondCoven?.stockQuantity
+                  ? getItemType(secondCoven) + ' ' + secondCoven?.stockQuantity || 0
                   : ''}
               </div>
               <div>{secondCoven?.temp ? secondCoven?.temp + '℉' : ''}</div>
               <div className={`${getItemTypeBrief(secondCoven) || 'normal'}-image`}></div>
-              <div>
-                {secondCoven
-                  ? (secondCoven?.minute || '00') +
-                    ' :' +
-                    (secondCoven?.second || '00')
-                  : '00:00'}
-              </div>
+              {
+                errMsg(secondCoven)?<div className={`coven-error-msg-${secondCoven.stockQuantity?'yellow':'red'}`}>{errMsg(secondCoven)}</div>:
+                <div className='coven-msg'>
+                  {secondCoven
+                    ? (secondCoven?.minute || '00') +
+                      ' :' +
+                      (secondCoven?.second || '00')
+                    : '00:00'}
+                </div>
+              }
             </div>
             <div className="monitor-coven">
               <div> / 0</div>
               <div>{'0' + '℉' }</div>
               <div className='normal-image'>/</div>
-              <div>00:00</div>
+              <div className='coven-msg'>00:00</div>
             </div>
             <div className="monitor-coven">
               <div> / 0</div>
               <div>{'0' + '℉' }</div>
               <div className='normal-image'>/</div>
-              <div>00:00</div>
+              <div className='coven-msg'>00:00</div>
             </div>
             <div className="monitor-coven">
               <div> / 0</div>
               <div>{'0' + '℉' }</div>
               <div className='normal-image'>/</div>
-              <div>00:00</div>
+              <div className='coven-msg'>00:00</div>
             </div>
           </div>
           <div className="item-container-block"></div>
           <div className="monitor-container">
           <div
               className={`monitor-coven ${
-                firstCoven ? 'pan-used' : ''
+                getCovenStatus(firstCoven)
               } `}
             >
               <div>
                 {firstCoven
-                  ? getItemType(firstCoven) + ' ' + firstCoven?.stockQuantity
+                  ? getItemType(firstCoven) + ' ' + firstCoven?.stockQuantity || 0
                   : ''}
               </div>
               <div>{firstCoven ? (firstCoven?.temp || 0)+ '℉' : ''}</div>
               <div className={`${getItemTypeBrief(firstCoven) || 'normal'}-image`}></div>
+              {
+                errMsg(firstCoven)?<div className={`coven-error-msg-${firstCoven.stockQuantity?'yellow':'red'}`}>{errMsg(firstCoven)}</div>:
               <div>
                 {firstCoven
                   ? (firstCoven?.minute || '00') +
                     ' :' +
                     (firstCoven?.second || '00')
                   : '00:00'}
-              </div>
+              </div>}
             </div>
             <div className="monitor-coven">
               <div> / 0</div>
               <div>{'0' + '℉' }</div>
               <div className='normal-image'>/</div>
-              <div>00:00</div>
+              <div className='coven-msg'>00:00</div>
             </div>
             <div className="monitor-coven">
               <div> / 0</div>
               <div>{'0' + '℉' }</div>
               <div className='normal-image'>/</div>
-              <div>00:00</div>
+              <div className='coven-msg'>00:00</div>
             </div>
             <div className="monitor-coven">
               <div> / 0</div>
               <div>{'0' + '℉' }</div>
               <div className='normal-image'>/</div>
-              <div>00:00</div>
+              <div className='coven-msg'>00:00</div>
             </div>
           </div>
         </div>
