@@ -1,5 +1,4 @@
 import React, { useState } from 'react'
-import { Tabs } from '@aurum/pfe-ui'
 import SituationThird from './components/situationThird'
 import SituationSecond from './components/situationSecond'
 import SituationFirst from './components/situationFirst'

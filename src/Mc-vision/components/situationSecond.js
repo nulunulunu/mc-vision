@@ -16,7 +16,7 @@ import {
 } from 'recharts'
 import { element } from 'prop-types'
 import moment from 'moment'
-import { Table } from '@aurum/pfe-ui'
+import { Table } from 'antd'
 import { queryTrash } from '../mcvisionServer'
 
 const columns = [

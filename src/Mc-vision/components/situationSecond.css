@@ -247,14 +247,14 @@
 }
 
 
-.pfe-table , .pfe-table-thead{
-    background:none;
+.ant-table , .ant-table-thead{
+    background:none!important;
 }
 
-.pfe-table{
+.ant-table{
     background: none!important;
 }
-.pfe-table-cell{
+.ant-table-cell{
     background: none!important;
     color: #fff!important;
 }
