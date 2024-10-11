@@ -116,20 +116,16 @@ const SituationFirst = () => {
         newData[0].stage > data.current[0].stage &&
         newData[0].stage === 3
       ) {
-        chartTable.push({
-          name: '6',
-          before: newData[0].preTemp,
-          after: newData[0].temp,
-        })
+
         if (newData[0].skuType === 0) {
           setChartTable([
             ..._chartTable,
-            { name: ''+_chartTable.length, before: newData[0].preTemp, after: newData[0].temp },
+            { name: ''+(_chartTable.length+1), before: newData[0].preTemp, after: newData[0].temp },
           ])
         } else {
           setGriTable([
             ..._griTable,
-            { name: ''+_griTable.length, before: newData[0].preTemp, after: newData[0].temp },
+            { name: ''+(_griTable.length+1), before: newData[0].preTemp, after: newData[0].temp },
           ])
         }
       }
@@ -142,15 +138,15 @@ const SituationFirst = () => {
         newData[1].stage === 3
       ) {
         if (newData[1].skuType === 0) {
-          setChartTable([
-            ..._chartTable,
-            { name: ''+_chartTable.length, before: newData[1].preTemp, after: newData[1].temp },
-          ])
+          setChartTable(_preTable=>([
+            ..._preTable,
+            { name: ''+(_preTable.length+1), before: newData[1].preTemp, after: newData[1].temp },
+          ]))
         } else {
-          setGriTable([
-            ..._griTable,
-            { name: ''+_griTable.length, before: newData[1].preTemp, after: newData[1].temp },
-          ])
+          setGriTable(_preTable=>([
+            ..._preTable,
+            { name: ''+(_preTable.length+1), before: newData[1].preTemp, after: newData[1].temp },
+          ]))
         }
       }
       data.current = newData || []

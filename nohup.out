@@ -1,0 +1,957 @@
+ INFO  Accepting connections at http://localhost:3000
+ HTTP  2024/9/23 22:56:58 ::1 GET /
+ HTTP  2024/9/23 22:56:58 ::1 Returned 200 in 19 ms
+ HTTP  2024/9/23 22:56:58 ::1 GET /static/js/main.8e358760.js
+ HTTP  2024/9/23 22:56:58 ::1 Returned 200 in 8 ms
+ HTTP  2024/9/23 22:56:58 ::1 GET /static/css/main.c56c485d.css
+ HTTP  2024/9/23 22:56:58 ::1 Returned 200 in 3 ms
+ HTTP  2024/9/23 22:56:58 ::1 GET /static/media/background.5f1f6dde97424f4b5dbc.png
+ HTTP  2024/9/23 22:56:58 ::1 Returned 200 in 7 ms
+ HTTP  2024/9/23 22:56:58 ::1 GET /static/media/circle.ab4e73a17e04171b5953.png
+ HTTP  2024/9/23 22:56:58 ::1 GET /static/media/topRight.4e6eedb27efcef9b1674.png
+ HTTP  2024/9/23 22:56:58 ::1 GET /static/media/rightBottom.e6e44ff79fe3cbf0e666.png
+ HTTP  2024/9/23 22:56:58 ::1 GET /static/media/center.1e42b9ac6d3b26d708aa.png
+ HTTP  2024/9/23 22:56:58 ::1 GET /static/media/leftTop.11fe04c867a5bdb98e99.png
+ HTTP  2024/9/23 22:56:58 ::1 Returned 200 in 23 ms
+ HTTP  2024/9/23 22:56:58 ::1 Returned 200 in 23 ms
+ HTTP  2024/9/23 22:56:58 ::1 Returned 200 in 27 ms
+ HTTP  2024/9/23 22:56:58 ::1 Returned 200 in 22 ms
+ HTTP  2024/9/23 22:56:58 ::1 GET /static/media/leftBottom.54ae231c95b4b59142a3.png
+ HTTP  2024/9/23 22:56:58 ::1 Returned 200 in 44 ms
+ HTTP  2024/9/23 22:56:58 ::1 Returned 200 in 5 ms
+ HTTP  2024/9/23 22:56:58 ::1 GET /favicon.ico
+ HTTP  2024/9/23 22:56:58 ::1 GET /manifest.json
+ HTTP  2024/9/23 22:56:58 ::1 Returned 200 in 1 ms
+ HTTP  2024/9/23 22:56:58 ::1 Returned 200 in 2 ms
+ HTTP  2024/9/23 22:56:58 ::1 GET /logo192.png
+ HTTP  2024/9/23 22:56:58 ::1 Returned 200 in 1 ms
+ HTTP  2024/9/23 22:56:59 ::1 GET /static/media/monitor.acb8e713fa56a4cae293.png
+ HTTP  2024/9/23 22:56:59 ::1 GET /static/media/coven.a837a05199137e65d603.png
+ HTTP  2024/9/23 22:56:59 ::1 GET /static/media/unReady.54ce739e33d07b8d1f19.png
+ HTTP  2024/9/23 22:56:59 ::1 GET /static/media/loading.915f0fc262109c9547b2.png
+ HTTP  2024/9/23 22:56:59 ::1 GET /static/media/finished.0f336341119896d6576b.png
+ HTTP  2024/9/23 22:56:59 ::1 GET /static/media/base.6e437c703b7871143fa9.png
+ HTTP  2024/9/23 22:56:59 ::1 Returned 200 in 2 ms
+ HTTP  2024/9/23 22:56:59 ::1 Returned 200 in 3 ms
+ HTTP  2024/9/23 22:56:59 ::1 Returned 200 in 3 ms
+ HTTP  2024/9/23 22:56:59 ::1 Returned 200 in 5 ms
+ HTTP  2024/9/23 22:56:59 ::1 Returned 200 in 7 ms
+ HTTP  2024/9/23 22:56:59 ::1 Returned 200 in 8 ms
+ HTTP  2024/9/23 22:57:02 ::1 GET /static/css/main.c56c485d.css
+ HTTP  2024/9/23 22:57:02 ::1 Returned 304 in 1 ms
+ HTTP  2024/9/23 22:57:02 ::1 GET /manifest.json
+ HTTP  2024/9/23 22:57:02 ::1 Returned 304 in 1 ms
+ HTTP  2024/9/23 22:57:02 ::1 GET /static/js/main.8e358760.js.map
+ HTTP  2024/9/23 22:57:02 ::1 GET /static/css/main.c56c485d.css.map
+ HTTP  2024/9/23 22:57:02 ::1 Returned 200 in 6 ms
+ HTTP  2024/9/23 22:57:02 ::1 Returned 200 in 27 ms
+ HTTP  2024/9/23 22:57:04 ::1 GET /static/media/monitor.0031f9b735c4ea80c52d.png
+ HTTP  2024/9/23 22:57:04 ::1 GET /static/media/monitorTitle.60e191577da1eeffecbc.png
+ HTTP  2024/9/23 22:57:04 ::1 GET /static/media/covenFree.debcef0a50c40bee6115.png
+ HTTP  2024/9/23 22:57:04 ::1 GET /static/media/todayTransfer.68bf0daa0a571935a9f4.png
+ HTTP  2024/9/23 22:57:04 ::1 GET /static/media/todayTrashRecord.ae9d537189b7db4f6fb8.png
+ HTTP  2024/9/23 22:57:04 ::1 GET /static/media/trashRecord.6cc1813bf8162d6b8ff4.png
+ HTTP  2024/9/23 22:57:04 ::1 Returned 200 in 10 ms
+ HTTP  2024/9/23 22:57:04 ::1 Returned 200 in 12 ms
+ HTTP  2024/9/23 22:57:04 ::1 Returned 200 in 11 ms
+ HTTP  2024/9/23 22:57:04 ::1 Returned 200 in 10 ms
+ HTTP  2024/9/23 22:57:04 ::1 Returned 200 in 12 ms
+ HTTP  2024/9/23 22:57:04 ::1 GET /static/media/trash-background.d8f336f65bb1585fbb4c.png
+ HTTP  2024/9/23 22:57:04 ::1 Returned 200 in 13 ms
+ HTTP  2024/9/23 22:57:04 ::1 Returned 200 in 3 ms
+ HTTP  2024/9/23 22:57:05 ::1 GET /static/media/current.64415a69d9e62bc1298a.png
+ HTTP  2024/9/23 22:57:05 ::1 GET /static/media/base.c80fded787e2dc60ce55.png
+ HTTP  2024/9/23 22:57:05 ::1 GET /static/media/background.058a1096fe7732a658a8.png
+ HTTP  2024/9/23 22:57:05 ::1 GET /static/media/success.e4bb71e835ea86d67bdd.png
+ HTTP  2024/9/23 22:57:05 ::1 Returned 200 in 3 ms
+ HTTP  2024/9/23 22:57:05 ::1 Returned 200 in 2 ms
+ HTTP  2024/9/23 22:57:05 ::1 Returned 200 in 2 ms
+ HTTP  2024/9/23 22:57:05 ::1 Returned 200 in 3 ms
+ HTTP  2024/9/23 23:00:25 192.168.10.105 GET /
+ HTTP  2024/9/23 23:00:25 192.168.10.105 Returned 200 in 12 ms
+ HTTP  2024/9/23 23:00:25 192.168.10.105 GET /static/js/main.8e358760.js
+ HTTP  2024/9/23 23:00:25 192.168.10.105 Returned 200 in 1 ms
+ HTTP  2024/9/23 23:00:25 192.168.10.105 GET /static/css/main.c56c485d.css
+ HTTP  2024/9/23 23:00:25 192.168.10.105 Returned 200 in 1 ms
+ HTTP  2024/9/23 23:00:26 192.168.10.105 GET /static/css/main.c56c485d.css.map
+ HTTP  2024/9/23 23:00:26 192.168.10.105 Returned 200 in 3 ms
+ HTTP  2024/9/23 23:00:26 192.168.10.105 GET /static/js/main.8e358760.js.map
+ HTTP  2024/9/23 23:00:26 192.168.10.105 GET /static/media/background.5f1f6dde97424f4b5dbc.png
+ HTTP  2024/9/23 23:00:26 192.168.10.105 Returned 200 in 1 ms
+ HTTP  2024/9/23 23:00:26 192.168.10.105 Returned 200 in 1 ms
+ HTTP  2024/9/23 23:00:26 192.168.10.105 GET /static/media/leftBottom.54ae231c95b4b59142a3.png
+ HTTP  2024/9/23 23:00:26 192.168.10.105 GET /static/media/circle.ab4e73a17e04171b5953.png
+ HTTP  2024/9/23 23:00:26 192.168.10.105 Returned 200 in 2 ms
+ HTTP  2024/9/23 23:00:26 192.168.10.105 Returned 200 in 1 ms
+ HTTP  2024/9/23 23:00:26 192.168.10.105 GET /static/media/topRight.4e6eedb27efcef9b1674.png
+ HTTP  2024/9/23 23:00:26 192.168.10.105 GET /static/media/rightBottom.e6e44ff79fe3cbf0e666.png
+ HTTP  2024/9/23 23:00:26 192.168.10.105 Returned 200 in 1 ms
+ HTTP  2024/9/23 23:00:26 192.168.10.105 Returned 200 in 1 ms
+ HTTP  2024/9/23 23:00:30 192.168.10.105 GET /static/media/base.6e437c703b7871143fa9.png
+ HTTP  2024/9/23 23:00:30 192.168.10.105 Returned 200 in 4 ms
+ HTTP  2024/9/23 23:00:31 192.168.10.105 GET /static/media/unReady.54ce739e33d07b8d1f19.png
+ HTTP  2024/9/23 23:00:31 192.168.10.105 GET /static/media/monitor.acb8e713fa56a4cae293.png
+ HTTP  2024/9/23 23:00:31 192.168.10.105 GET /static/media/coven.a837a05199137e65d603.png
+ HTTP  2024/9/23 23:00:31 192.168.10.105 Returned 200 in 2 ms
+ HTTP  2024/9/23 23:00:31 192.168.10.105 Returned 200 in 2 ms
+ HTTP  2024/9/23 23:00:31 192.168.10.105 Returned 200 in 1 ms
+ HTTP  2024/9/23 23:00:32 192.168.10.105 GET /static/media/loading.915f0fc262109c9547b2.png
+ HTTP  2024/9/23 23:00:32 192.168.10.105 Returned 200 in 1 ms
+ HTTP  2024/9/23 23:00:36 192.168.10.105 GET /static/media/finished.0f336341119896d6576b.png
+ HTTP  2024/9/23 23:00:36 192.168.10.105 Returned 200 in 1 ms
+ HTTP  2024/9/23 23:00:38 192.168.10.105 GET /static/media/center.1e42b9ac6d3b26d708aa.png
+ HTTP  2024/9/23 23:00:38 192.168.10.105 Returned 200 in 3 ms
+ HTTP  2024/9/23 23:00:39 192.168.10.105 GET /static/media/leftTop.11fe04c867a5bdb98e99.png
+ HTTP  2024/9/23 23:00:39 192.168.10.105 Returned 200 in 2 ms
+ HTTP  2024/9/23 23:00:40 192.168.10.105 GET /static/media/background.5f1f6dde97424f4b5dbc.png
+ HTTP  2024/9/23 23:00:40 192.168.10.105 Returned 200 in 1 ms
+ HTTP  2024/9/23 23:00:40 192.168.10.105 GET /favicon.ico
+ HTTP  2024/9/23 23:00:40 192.168.10.105 Returned 200 in 1 ms
+ HTTP  2024/9/23 23:04:36 192.168.10.105 GET /
+ HTTP  2024/9/23 23:04:36 192.168.10.105 Returned 304 in 4 ms
+ HTTP  2024/9/23 23:04:36 192.168.10.105 GET /static/js/main.8e358760.js
+ HTTP  2024/9/23 23:04:36 192.168.10.105 Returned 304 in 1 ms
+ HTTP  2024/9/23 23:04:36 192.168.10.105 GET /static/css/main.c56c485d.css
+ HTTP  2024/9/23 23:04:36 192.168.10.105 Returned 304 in 0 ms
+ HTTP  2024/9/23 23:04:36 192.168.10.105 GET /static/css/main.c56c485d.css.map
+ HTTP  2024/9/23 23:04:36 192.168.10.105 Returned 304 in 0 ms
+ HTTP  2024/9/23 23:04:36 192.168.10.105 GET /static/media/background.5f1f6dde97424f4b5dbc.png
+ HTTP  2024/9/23 23:04:36 192.168.10.105 Returned 304 in 2 ms
+ HTTP  2024/9/23 23:04:36 192.168.10.105 GET /static/js/main.8e358760.js.map
+ HTTP  2024/9/23 23:04:36 192.168.10.105 Returned 304 in 1 ms
+ HTTP  2024/9/23 23:04:36 192.168.10.105 GET /static/media/circle.ab4e73a17e04171b5953.png
+ HTTP  2024/9/23 23:04:36 192.168.10.105 GET /static/media/topRight.4e6eedb27efcef9b1674.png
+ HTTP  2024/9/23 23:04:36 192.168.10.105 Returned 304 in 1 ms
+ HTTP  2024/9/23 23:04:36 192.168.10.105 Returned 304 in 1 ms
+ HTTP  2024/9/23 23:04:36 192.168.10.105 GET /static/media/center.1e42b9ac6d3b26d708aa.png
+ HTTP  2024/9/23 23:04:36 192.168.10.105 Returned 304 in 1 ms
+ HTTP  2024/9/23 23:04:36 192.168.10.105 GET /static/media/leftTop.11fe04c867a5bdb98e99.png
+ HTTP  2024/9/23 23:04:36 192.168.10.105 Returned 304 in 1 ms
+ HTTP  2024/9/23 23:04:36 192.168.10.105 GET /static/media/rightBottom.e6e44ff79fe3cbf0e666.png
+ HTTP  2024/9/23 23:04:36 192.168.10.105 Returned 304 in 1 ms
+ HTTP  2024/9/23 23:04:36 192.168.10.105 GET /static/media/leftBottom.54ae231c95b4b59142a3.png
+ HTTP  2024/9/23 23:04:36 192.168.10.105 Returned 304 in 0 ms
+ HTTP  2024/9/23 23:04:37 192.168.10.105 GET /static/media/background.5f1f6dde97424f4b5dbc.png
+ HTTP  2024/9/23 23:04:37 192.168.10.105 Returned 304 in 1 ms
+ HTTP  2024/9/23 23:04:37 192.168.10.105 GET /favicon.ico
+ HTTP  2024/9/23 23:04:37 192.168.10.105 Returned 304 in 1 ms
+ HTTP  2024/9/23 23:05:50 192.168.10.105 GET /
+ HTTP  2024/9/23 23:05:50 192.168.10.105 Returned 200 in 1 ms
+ HTTP  2024/9/23 23:05:50 192.168.10.105 GET /static/js/main.8e358760.js
+ HTTP  2024/9/23 23:05:50 192.168.10.105 Returned 200 in 1 ms
+ HTTP  2024/9/23 23:05:50 192.168.10.105 GET /static/css/main.c56c485d.css
+ HTTP  2024/9/23 23:05:50 192.168.10.105 Returned 200 in 0 ms
+ HTTP  2024/9/23 23:05:51 192.168.10.105 GET /static/media/background.5f1f6dde97424f4b5dbc.png
+ HTTP  2024/9/23 23:05:51 192.168.10.105 GET /static/media/circle.ab4e73a17e04171b5953.png
+ HTTP  2024/9/23 23:05:51 192.168.10.105 Returned 200 in 2 ms
+ HTTP  2024/9/23 23:05:51 192.168.10.105 Returned 200 in 1 ms
+ HTTP  2024/9/23 23:05:51 192.168.10.105 GET /static/media/leftTop.11fe04c867a5bdb98e99.png
+ HTTP  2024/9/23 23:05:51 192.168.10.105 Returned 200 in 1 ms
+ HTTP  2024/9/23 23:05:51 192.168.10.105 GET /static/media/leftBottom.54ae231c95b4b59142a3.png
+ HTTP  2024/9/23 23:05:51 192.168.10.105 Returned 200 in 0 ms
+ HTTP  2024/9/23 23:05:51 192.168.10.105 GET /static/media/topRight.4e6eedb27efcef9b1674.png
+ HTTP  2024/9/23 23:05:51 192.168.10.105 Returned 200 in 1 ms
+ HTTP  2024/9/23 23:05:51 192.168.10.105 GET /static/media/rightBottom.e6e44ff79fe3cbf0e666.png
+ HTTP  2024/9/23 23:05:51 192.168.10.105 Returned 200 in 0 ms
+ HTTP  2024/9/23 23:05:52 192.168.10.105 GET /static/media/center.1e42b9ac6d3b26d708aa.png
+ HTTP  2024/9/23 23:05:52 192.168.10.105 Returned 200 in 1 ms
+ HTTP  2024/9/23 23:05:55 192.168.10.105 GET /manifest.json
+ HTTP  2024/9/23 23:05:55 192.168.10.105 Returned 200 in 2 ms
+ HTTP  2024/9/23 23:05:58 192.168.10.105 GET /static/media/monitor.acb8e713fa56a4cae293.png
+ HTTP  2024/9/23 23:05:58 192.168.10.105 Returned 200 in 2 ms
+ HTTP  2024/9/23 23:05:58 192.168.10.105 GET /static/media/finished.0f336341119896d6576b.png
+ HTTP  2024/9/23 23:05:58 192.168.10.105 Returned 200 in 1 ms
+ HTTP  2024/9/23 23:05:58 192.168.10.105 GET /static/media/base.6e437c703b7871143fa9.png
+ HTTP  2024/9/23 23:05:58 192.168.10.105 GET /static/media/unReady.54ce739e33d07b8d1f19.png
+ HTTP  2024/9/23 23:05:58 192.168.10.105 Returned 200 in 1 ms
+ HTTP  2024/9/23 23:05:58 192.168.10.105 Returned 200 in 1 ms
+ HTTP  2024/9/23 23:06:00 192.168.10.105 GET /static/media/loading.915f0fc262109c9547b2.png
+ HTTP  2024/9/23 23:06:00 192.168.10.105 Returned 200 in 1 ms
+ HTTP  2024/9/23 23:06:00 192.168.10.105 GET /static/media/coven.a837a05199137e65d603.png
+ HTTP  2024/9/23 23:06:00 192.168.10.105 Returned 200 in 0 ms
+ HTTP  2024/9/23 23:06:01 192.168.10.105 GET /static/js/main.8e358760.js.map
+ HTTP  2024/9/23 23:06:01 192.168.10.105 Returned 200 in 1 ms
+ HTTP  2024/9/23 23:06:01 192.168.10.105 GET /static/css/main.c56c485d.css.map
+ HTTP  2024/9/23 23:06:01 192.168.10.105 Returned 200 in 0 ms
+ HTTP  2024/9/23 23:06:03 192.168.10.105 GET /favicon.ico
+ HTTP  2024/9/23 23:06:03 192.168.10.105 Returned 200 in 1 ms
+ HTTP  2024/9/23 23:07:25 192.168.10.105 GET /static/media/monitor.acb8e713fa56a4cae293.png
+ HTTP  2024/9/23 23:07:25 192.168.10.105 GET /static/media/base.6e437c703b7871143fa9.png
+ HTTP  2024/9/23 23:07:25 192.168.10.105 Returned 304 in 3 ms
+ HTTP  2024/9/23 23:07:25 192.168.10.105 GET /static/media/coven.a837a05199137e65d603.png
+ HTTP  2024/9/23 23:07:25 192.168.10.105 Returned 304 in 4 ms
+ HTTP  2024/9/23 23:07:25 192.168.10.105 Returned 304 in 4 ms
+ HTTP  2024/9/23 23:07:25 192.168.10.105 GET /static/media/unReady.54ce739e33d07b8d1f19.png
+ HTTP  2024/9/23 23:07:25 192.168.10.105 GET /static/media/loading.915f0fc262109c9547b2.png
+ HTTP  2024/9/23 23:07:25 192.168.10.105 GET /static/media/finished.0f336341119896d6576b.png
+ HTTP  2024/9/23 23:07:25 192.168.10.105 Returned 304 in 2 ms
+ HTTP  2024/9/23 23:07:25 192.168.10.105 Returned 304 in 1 ms
+ HTTP  2024/9/23 23:07:25 192.168.10.105 Returned 304 in 1 ms
+ HTTP  2024/9/23 23:11:22 192.168.10.105 GET /
+ HTTP  2024/9/23 23:11:22 192.168.10.105 Returned 304 in 3 ms
+ HTTP  2024/9/23 23:11:22 192.168.10.105 GET /static/js/main.8e358760.js
+ HTTP  2024/9/23 23:11:22 192.168.10.105 Returned 304 in 1 ms
+ HTTP  2024/9/23 23:11:22 192.168.10.105 GET /static/css/main.c56c485d.css
+ HTTP  2024/9/23 23:11:22 192.168.10.105 Returned 304 in 1 ms
+ HTTP  2024/9/23 23:11:23 192.168.10.105 GET /static/css/main.c56c485d.css.map
+ HTTP  2024/9/23 23:11:23 192.168.10.105 GET /static/js/main.8e358760.js.map
+ HTTP  2024/9/23 23:11:23 192.168.10.105 Returned 304 in 0 ms
+ HTTP  2024/9/23 23:11:23 192.168.10.105 Returned 304 in 1 ms
+ HTTP  2024/9/23 23:11:23 192.168.10.105 GET /static/media/background.5f1f6dde97424f4b5dbc.png
+ HTTP  2024/9/23 23:11:23 192.168.10.105 GET /static/media/circle.ab4e73a17e04171b5953.png
+ HTTP  2024/9/23 23:11:23 192.168.10.105 Returned 304 in 1 ms
+ HTTP  2024/9/23 23:11:23 192.168.10.105 Returned 304 in 1 ms
+ HTTP  2024/9/23 23:11:23 192.168.10.105 GET /static/media/topRight.4e6eedb27efcef9b1674.png
+ HTTP  2024/9/23 23:11:23 192.168.10.105 Returned 304 in 0 ms
+ HTTP  2024/9/23 23:11:23 192.168.10.105 GET /static/media/rightBottom.e6e44ff79fe3cbf0e666.png
+ HTTP  2024/9/23 23:11:23 192.168.10.105 Returned 304 in 1 ms
+ HTTP  2024/9/23 23:11:23 192.168.10.105 GET /static/media/center.1e42b9ac6d3b26d708aa.png
+ HTTP  2024/9/23 23:11:23 192.168.10.105 GET /static/media/leftTop.11fe04c867a5bdb98e99.png
+ HTTP  2024/9/23 23:11:23 192.168.10.105 Returned 304 in 0 ms
+ HTTP  2024/9/23 23:11:23 192.168.10.105 Returned 304 in 0 ms
+ HTTP  2024/9/23 23:11:23 192.168.10.105 GET /static/media/leftBottom.54ae231c95b4b59142a3.png
+ HTTP  2024/9/23 23:11:23 192.168.10.105 Returned 304 in 0 ms
+ HTTP  2024/9/23 23:11:23 192.168.10.105 GET /static/media/background.5f1f6dde97424f4b5dbc.png
+ HTTP  2024/9/23 23:11:23 192.168.10.105 Returned 200 in 1 ms
+ HTTP  2024/9/23 23:11:26 192.168.10.105 GET /static/media/monitor.acb8e713fa56a4cae293.png
+ HTTP  2024/9/23 23:11:26 192.168.10.105 GET /static/media/coven.a837a05199137e65d603.png
+ HTTP  2024/9/23 23:11:26 192.168.10.105 GET /static/media/unReady.54ce739e33d07b8d1f19.png
+ HTTP  2024/9/23 23:11:26 192.168.10.105 GET /static/media/loading.915f0fc262109c9547b2.png
+ HTTP  2024/9/23 23:11:26 192.168.10.105 GET /static/media/finished.0f336341119896d6576b.png
+ HTTP  2024/9/23 23:11:26 192.168.10.105 GET /static/media/base.6e437c703b7871143fa9.png
+ HTTP  2024/9/23 23:11:26 192.168.10.105 Returned 304 in 1 ms
+ HTTP  2024/9/23 23:11:26 192.168.10.105 Returned 304 in 2 ms
+ HTTP  2024/9/23 23:11:26 192.168.10.105 Returned 304 in 2 ms
+ HTTP  2024/9/23 23:11:26 192.168.10.105 Returned 304 in 1 ms
+ HTTP  2024/9/23 23:11:26 192.168.10.105 Returned 304 in 1 ms
+ HTTP  2024/9/23 23:11:26 192.168.10.105 Returned 304 in 2 ms
+ HTTP  2024/9/23 23:11:26 192.168.10.105 GET /favicon.ico
+ HTTP  2024/9/23 23:11:26 192.168.10.105 Returned 304 in 1 ms
+ HTTP  2024/9/23 23:12:09 192.168.10.105 GET /
+ HTTP  2024/9/23 23:12:09 192.168.10.105 Returned 200 in 1 ms
+ HTTP  2024/9/23 23:12:09 192.168.10.105 GET /static/js/main.8e358760.js
+ HTTP  2024/9/23 23:12:09 192.168.10.105 Returned 200 in 2 ms
+ HTTP  2024/9/23 23:12:09 192.168.10.105 GET /static/css/main.c56c485d.css
+ HTTP  2024/9/23 23:12:09 192.168.10.105 Returned 200 in 0 ms
+ HTTP  2024/9/23 23:12:10 192.168.10.105 GET /static/css/main.c56c485d.css.map
+ HTTP  2024/9/23 23:12:10 192.168.10.105 Returned 200 in 2 ms
+ HTTP  2024/9/23 23:12:10 192.168.10.105 GET /static/js/main.8e358760.js.map
+ HTTP  2024/9/23 23:12:10 192.168.10.105 Returned 200 in 1 ms
+ HTTP  2024/9/23 23:12:10 192.168.10.105 GET /static/media/background.5f1f6dde97424f4b5dbc.png
+ HTTP  2024/9/23 23:12:10 192.168.10.105 Returned 200 in 1 ms
+ HTTP  2024/9/23 23:12:10 192.168.10.105 GET /static/media/center.1e42b9ac6d3b26d708aa.png
+ HTTP  2024/9/23 23:12:10 192.168.10.105 Returned 200 in 0 ms
+ HTTP  2024/9/23 23:12:10 192.168.10.105 GET /static/media/leftTop.11fe04c867a5bdb98e99.png
+ HTTP  2024/9/23 23:12:10 192.168.10.105 Returned 200 in 0 ms
+ HTTP  2024/9/23 23:12:10 192.168.10.105 GET /static/media/leftBottom.54ae231c95b4b59142a3.png
+ HTTP  2024/9/23 23:12:10 192.168.10.105 Returned 200 in 0 ms
+ HTTP  2024/9/23 23:12:10 192.168.10.105 GET /static/media/circle.ab4e73a17e04171b5953.png
+ HTTP  2024/9/23 23:12:10 192.168.10.105 Returned 200 in 0 ms
+ HTTP  2024/9/23 23:12:11 192.168.10.105 GET /static/media/topRight.4e6eedb27efcef9b1674.png
+ HTTP  2024/9/23 23:12:11 192.168.10.105 Returned 200 in 1 ms
+ HTTP  2024/9/23 23:12:11 192.168.10.105 GET /static/media/rightBottom.e6e44ff79fe3cbf0e666.png
+ HTTP  2024/9/23 23:12:11 192.168.10.105 Returned 200 in 1 ms
+ HTTP  2024/9/23 23:12:12 192.168.10.105 GET /favicon.ico
+ HTTP  2024/9/23 23:12:12 192.168.10.105 Returned 200 in 1 ms
+ HTTP  2024/9/23 23:12:12 192.168.10.105 GET /static/media/background.5f1f6dde97424f4b5dbc.png
+ HTTP  2024/9/23 23:12:12 192.168.10.105 Returned 200 in 1 ms
+ HTTP  2024/9/23 23:12:13 192.168.10.105 GET /static/media/monitor.acb8e713fa56a4cae293.png
+ HTTP  2024/9/23 23:12:13 192.168.10.105 GET /static/media/coven.a837a05199137e65d603.png
+ HTTP  2024/9/23 23:12:13 192.168.10.105 GET /static/media/unReady.54ce739e33d07b8d1f19.png
+ HTTP  2024/9/23 23:12:13 192.168.10.105 GET /static/media/loading.915f0fc262109c9547b2.png
+ HTTP  2024/9/23 23:12:13 192.168.10.105 GET /static/media/finished.0f336341119896d6576b.png
+ HTTP  2024/9/23 23:12:13 192.168.10.105 GET /static/media/base.6e437c703b7871143fa9.png
+ HTTP  2024/9/23 23:12:13 192.168.10.105 Returned 200 in 2 ms
+ HTTP  2024/9/23 23:12:13 192.168.10.105 Returned 200 in 2 ms
+ HTTP  2024/9/23 23:12:13 192.168.10.105 Returned 200 in 1 ms
+ HTTP  2024/9/23 23:12:13 192.168.10.105 Returned 200 in 1 ms
+ HTTP  2024/9/23 23:12:13 192.168.10.105 Returned 200 in 2 ms
+ HTTP  2024/9/23 23:12:13 192.168.10.105 Returned 200 in 1 ms
+ HTTP  2024/9/24 09:29:29 ::1 GET /
+ HTTP  2024/9/24 09:29:29 ::1 Returned 304 in 21 ms
+ HTTP  2024/9/24 09:29:29 ::1 GET /static/js/main.8e358760.js
+ HTTP  2024/9/24 09:29:29 ::1 GET /static/css/main.c56c485d.css
+ HTTP  2024/9/24 09:29:29 ::1 Returned 304 in 31 ms
+ HTTP  2024/9/24 09:29:29 ::1 Returned 304 in 31 ms
+ HTTP  2024/9/24 09:29:29 ::1 GET /static/media/background.5f1f6dde97424f4b5dbc.png
+ HTTP  2024/9/24 09:29:29 ::1 Returned 304 in 1 ms
+ HTTP  2024/9/24 09:29:29 ::1 GET /static/media/topRight.4e6eedb27efcef9b1674.png
+ HTTP  2024/9/24 09:29:29 ::1 Returned 304 in 1 ms
+ HTTP  2024/9/24 09:29:29 ::1 GET /static/media/circle.ab4e73a17e04171b5953.png
+ HTTP  2024/9/24 09:29:29 ::1 Returned 304 in 1 ms
+ HTTP  2024/9/24 09:29:29 ::1 GET /static/media/rightBottom.e6e44ff79fe3cbf0e666.png
+ HTTP  2024/9/24 09:29:29 ::1 GET /static/media/center.1e42b9ac6d3b26d708aa.png
+ HTTP  2024/9/24 09:29:29 ::1 Returned 304 in 10 ms
+ HTTP  2024/9/24 09:29:29 ::1 GET /static/media/leftTop.11fe04c867a5bdb98e99.png
+ HTTP  2024/9/24 09:29:29 ::1 Returned 304 in 15 ms
+ HTTP  2024/9/24 09:29:29 ::1 GET /static/media/leftBottom.54ae231c95b4b59142a3.png
+ HTTP  2024/9/24 09:29:29 ::1 Returned 304 in 5 ms
+ HTTP  2024/9/24 09:29:29 ::1 Returned 304 in 1 ms
+ HTTP  2024/9/24 09:29:29 ::1 GET /static/css/main.c56c485d.css.map
+ HTTP  2024/9/24 09:29:29 ::1 Returned 304 in 1 ms
+ HTTP  2024/9/24 09:29:29 ::1 GET /static/js/main.8e358760.js.map
+ HTTP  2024/9/24 09:29:29 ::1 Returned 304 in 2 ms
+ HTTP  2024/9/24 09:29:29 ::1 GET /favicon.ico
+ HTTP  2024/9/24 09:29:29 ::1 GET /manifest.json
+ HTTP  2024/9/24 09:29:29 ::1 Returned 304 in 5 ms
+ HTTP  2024/9/24 09:29:29 ::1 Returned 304 in 3 ms
+ HTTP  2024/9/24 09:29:29 ::1 GET /logo192.png
+ HTTP  2024/9/24 09:29:29 ::1 Returned 304 in 1 ms
+ HTTP  2024/9/24 09:29:30 ::1 GET /
+ HTTP  2024/9/24 09:29:30 ::1 Returned 304 in 6 ms
+ HTTP  2024/9/24 09:29:30 ::1 GET /static/js/main.8e358760.js
+ HTTP  2024/9/24 09:29:30 ::1 Returned 304 in 1 ms
+ HTTP  2024/9/24 09:29:30 ::1 GET /static/css/main.c56c485d.css
+ HTTP  2024/9/24 09:29:30 ::1 Returned 304 in 1 ms
+ HTTP  2024/9/24 09:29:30 ::1 GET /static/css/main.c56c485d.css.map
+ HTTP  2024/9/24 09:29:30 ::1 Returned 304 in 0 ms
+ HTTP  2024/9/24 09:29:31 ::1 GET /static/media/background.5f1f6dde97424f4b5dbc.png
+ HTTP  2024/9/24 09:29:31 ::1 GET /static/media/circle.ab4e73a17e04171b5953.png
+ HTTP  2024/9/24 09:29:31 ::1 Returned 304 in 4 ms
+ HTTP  2024/9/24 09:29:31 ::1 Returned 304 in 6 ms
+ HTTP  2024/9/24 09:29:31 ::1 GET /static/media/topRight.4e6eedb27efcef9b1674.png
+ HTTP  2024/9/24 09:29:31 ::1 GET /static/media/rightBottom.e6e44ff79fe3cbf0e666.png
+ HTTP  2024/9/24 09:29:31 ::1 GET /static/media/center.1e42b9ac6d3b26d708aa.png
+ HTTP  2024/9/24 09:29:31 ::1 GET /static/media/leftBottom.54ae231c95b4b59142a3.png
+ HTTP  2024/9/24 09:29:31 ::1 Returned 304 in 3 ms
+ HTTP  2024/9/24 09:29:31 ::1 Returned 304 in 3 ms
+ HTTP  2024/9/24 09:29:31 ::1 Returned 304 in 3 ms
+ HTTP  2024/9/24 09:29:31 ::1 GET /static/js/main.8e358760.js.map
+ HTTP  2024/9/24 09:29:31 ::1 GET /static/media/leftTop.11fe04c867a5bdb98e99.png
+ HTTP  2024/9/24 09:29:31 ::1 Returned 304 in 6 ms
+ HTTP  2024/9/24 09:29:31 ::1 Returned 304 in 3 ms
+ HTTP  2024/9/24 09:29:31 ::1 Returned 304 in 3 ms
+ HTTP  2024/9/24 09:29:31 ::1 GET /manifest.json
+ HTTP  2024/9/24 09:29:31 ::1 GET /favicon.ico
+ HTTP  2024/9/24 09:29:31 ::1 Returned 304 in 2 ms
+ HTTP  2024/9/24 09:29:31 ::1 Returned 304 in 7 ms
+ HTTP  2024/9/24 09:29:31 ::1 GET /logo192.png
+ HTTP  2024/9/24 09:29:31 ::1 Returned 304 in 0 ms
+ HTTP  2024/9/24 09:30:12 10.126.6.116 GET /
+ HTTP  2024/9/24 09:30:12 10.126.6.116 Returned 304 in 9 ms
+ HTTP  2024/9/24 09:30:12 10.126.6.116 GET /static/js/main.8e358760.js
+ HTTP  2024/9/24 09:30:12 10.126.6.116 GET /static/css/main.c56c485d.css
+ HTTP  2024/9/24 09:30:12 10.126.6.116 Returned 304 in 1 ms
+ HTTP  2024/9/24 09:30:12 10.126.6.116 Returned 304 in 1 ms
+ HTTP  2024/9/24 09:30:12 10.126.6.116 GET /static/media/background.5f1f6dde97424f4b5dbc.png
+ HTTP  2024/9/24 09:30:12 10.126.6.116 GET /static/media/topRight.4e6eedb27efcef9b1674.png
+ HTTP  2024/9/24 09:30:12 10.126.6.116 Returned 304 in 2 ms
+ HTTP  2024/9/24 09:30:12 10.126.6.116 Returned 304 in 2 ms
+ HTTP  2024/9/24 09:30:12 10.126.6.116 GET /static/media/circle.ab4e73a17e04171b5953.png
+ HTTP  2024/9/24 09:30:12 10.126.6.116 GET /static/media/center.1e42b9ac6d3b26d708aa.png
+ HTTP  2024/9/24 09:30:12 10.126.6.116 GET /static/media/leftTop.11fe04c867a5bdb98e99.png
+ HTTP  2024/9/24 09:30:12 10.126.6.116 Returned 304 in 2 ms
+ HTTP  2024/9/24 09:30:12 10.126.6.116 Returned 304 in 3 ms
+ HTTP  2024/9/24 09:30:12 10.126.6.116 Returned 304 in 2 ms
+ HTTP  2024/9/24 09:30:12 10.126.6.116 GET /static/media/rightBottom.e6e44ff79fe3cbf0e666.png
+ HTTP  2024/9/24 09:30:12 10.126.6.116 GET /static/media/leftBottom.54ae231c95b4b59142a3.png
+ HTTP  2024/9/24 09:30:12 10.126.6.116 Returned 304 in 3 ms
+ HTTP  2024/9/24 09:30:12 10.126.6.116 Returned 304 in 2 ms
+ HTTP  2024/9/24 09:30:14 10.126.6.116 GET /static/media/monitor.acb8e713fa56a4cae293.png
+ HTTP  2024/9/24 09:30:14 10.126.6.116 GET /static/media/coven.a837a05199137e65d603.png
+ HTTP  2024/9/24 09:30:14 10.126.6.116 GET /static/media/unReady.54ce739e33d07b8d1f19.png
+ HTTP  2024/9/24 09:30:14 10.126.6.116 GET /static/media/loading.915f0fc262109c9547b2.png
+ HTTP  2024/9/24 09:30:14 10.126.6.116 GET /static/media/finished.0f336341119896d6576b.png
+ HTTP  2024/9/24 09:30:14 10.126.6.116 GET /static/media/base.6e437c703b7871143fa9.png
+ HTTP  2024/9/24 09:30:14 10.126.6.116 Returned 304 in 1 ms
+ HTTP  2024/9/24 09:30:14 10.126.6.116 Returned 304 in 2 ms
+ HTTP  2024/9/24 09:30:14 10.126.6.116 Returned 304 in 1 ms
+ HTTP  2024/9/24 09:30:14 10.126.6.116 Returned 304 in 1 ms
+ HTTP  2024/9/24 09:30:14 10.126.6.116 Returned 304 in 1 ms
+ HTTP  2024/9/24 09:30:14 10.126.6.116 Returned 304 in 2 ms
+ HTTP  2024/9/24 09:30:16 10.126.6.116 GET /static/media/monitor.0031f9b735c4ea80c52d.png
+ HTTP  2024/9/24 09:30:16 10.126.6.116 GET /static/media/monitorTitle.60e191577da1eeffecbc.png
+ HTTP  2024/9/24 09:30:16 10.126.6.116 GET /static/media/covenFree.debcef0a50c40bee6115.png
+ HTTP  2024/9/24 09:30:16 10.126.6.116 GET /static/media/todayTransfer.68bf0daa0a571935a9f4.png
+ HTTP  2024/9/24 09:30:16 10.126.6.116 GET /static/media/todayTrashRecord.ae9d537189b7db4f6fb8.png
+ HTTP  2024/9/24 09:30:16 10.126.6.116 GET /static/media/trashRecord.6cc1813bf8162d6b8ff4.png
+ HTTP  2024/9/24 09:30:16 10.126.6.116 Returned 304 in 2 ms
+ HTTP  2024/9/24 09:30:16 10.126.6.116 Returned 304 in 2 ms
+ HTTP  2024/9/24 09:30:16 10.126.6.116 Returned 304 in 2 ms
+ HTTP  2024/9/24 09:30:16 10.126.6.116 Returned 304 in 2 ms
+ HTTP  2024/9/24 09:30:16 10.126.6.116 Returned 304 in 2 ms
+ HTTP  2024/9/24 09:30:16 10.126.6.116 Returned 304 in 1 ms
+ HTTP  2024/9/24 09:30:16 10.126.6.116 GET /static/media/trash-background.d8f336f65bb1585fbb4c.png
+ HTTP  2024/9/24 09:30:16 10.126.6.116 Returned 304 in 1 ms
+ HTTP  2024/9/24 09:30:19 10.126.6.116 GET /static/media/current.64415a69d9e62bc1298a.png
+ HTTP  2024/9/24 09:30:19 10.126.6.116 GET /static/media/base.c80fded787e2dc60ce55.png
+ HTTP  2024/9/24 09:30:19 10.126.6.116 Returned 200 in 2 ms
+ HTTP  2024/9/24 09:30:19 10.126.6.116 Returned 200 in 1 ms
+ HTTP  2024/9/24 09:30:19 10.126.6.116 GET /static/media/background.058a1096fe7732a658a8.png
+ HTTP  2024/9/24 09:30:19 10.126.6.116 GET /static/media/success.e4bb71e835ea86d67bdd.png
+ HTTP  2024/9/24 09:30:19 10.126.6.116 Returned 200 in 1 ms
+ HTTP  2024/9/24 09:30:19 10.126.6.116 Returned 200 in 1 ms
+ INFO  Accepting connections at http://localhost:3000
+ HTTP  2024/9/25 14:18:08 10.126.6.116 GET /
+ HTTP  2024/9/25 14:18:08 10.126.6.116 Returned 200 in 17 ms
+ HTTP  2024/9/25 14:18:08 10.126.6.116 GET /static/js/main.8e358760.js
+ HTTP  2024/9/25 14:18:08 10.126.6.116 GET /static/css/main.c56c485d.css
+ HTTP  2024/9/25 14:18:08 10.126.6.116 Returned 200 in 6 ms
+ HTTP  2024/9/25 14:18:08 10.126.6.116 Returned 200 in 11 ms
+ HTTP  2024/9/25 14:18:08 10.126.6.116 GET /static/media/background.5f1f6dde97424f4b5dbc.png
+ HTTP  2024/9/25 14:18:08 10.126.6.116 GET /static/media/circle.ab4e73a17e04171b5953.png
+ HTTP  2024/9/25 14:18:08 10.126.6.116 Returned 200 in 3 ms
+ HTTP  2024/9/25 14:18:08 10.126.6.116 GET /static/media/leftBottom.54ae231c95b4b59142a3.png
+ HTTP  2024/9/25 14:18:08 10.126.6.116 Returned 200 in 1 ms
+ HTTP  2024/9/25 14:18:08 10.126.6.116 GET /static/media/topRight.4e6eedb27efcef9b1674.png
+ HTTP  2024/9/25 14:18:08 10.126.6.116 GET /static/media/center.1e42b9ac6d3b26d708aa.png
+ HTTP  2024/9/25 14:18:08 10.126.6.116 GET /static/media/rightBottom.e6e44ff79fe3cbf0e666.png
+ HTTP  2024/9/25 14:18:08 10.126.6.116 GET /static/media/leftTop.11fe04c867a5bdb98e99.png
+ HTTP  2024/9/25 14:18:08 10.126.6.116 Returned 200 in 4 ms
+ HTTP  2024/9/25 14:18:08 10.126.6.116 Returned 200 in 5 ms
+ HTTP  2024/9/25 14:18:08 10.126.6.116 Returned 200 in 6 ms
+ HTTP  2024/9/25 14:18:08 10.126.6.116 Returned 200 in 8 ms
+ HTTP  2024/9/25 14:18:08 10.126.6.116 Returned 200 in 21 ms
+ HTTP  2024/9/25 14:18:08 10.126.6.116 GET /favicon.ico
+ HTTP  2024/9/25 14:18:08 10.126.6.116 Returned 200 in 3 ms
+ HTTP  2024/9/25 14:18:18 10.126.6.225 GET /
+ HTTP  2024/9/25 14:18:18 10.126.6.225 Returned 304 in 4 ms
+ HTTP  2024/9/25 14:18:18 10.126.6.225 GET /static/css/main.c56c485d.css
+ HTTP  2024/9/25 14:18:18 10.126.6.225 GET /static/js/main.8e358760.js
+ HTTP  2024/9/25 14:18:18 10.126.6.225 Returned 304 in 6 ms
+ HTTP  2024/9/25 14:18:18 10.126.6.225 Returned 304 in 8 ms
+ HTTP  2024/9/25 14:18:18 10.126.6.225 GET /static/media/background.5f1f6dde97424f4b5dbc.png
+ HTTP  2024/9/25 14:18:18 10.126.6.225 GET /static/media/circle.ab4e73a17e04171b5953.png
+ HTTP  2024/9/25 14:18:18 10.126.6.225 Returned 304 in 5 ms
+ HTTP  2024/9/25 14:18:18 10.126.6.225 Returned 304 in 3 ms
+ HTTP  2024/9/25 14:18:18 10.126.6.225 GET /static/media/leftBottom.54ae231c95b4b59142a3.png
+ HTTP  2024/9/25 14:18:18 10.126.6.225 GET /static/media/leftTop.11fe04c867a5bdb98e99.png
+ HTTP  2024/9/25 14:18:18 10.126.6.225 GET /static/media/topRight.4e6eedb27efcef9b1674.png
+ HTTP  2024/9/25 14:18:18 10.126.6.225 Returned 304 in 2 ms
+ HTTP  2024/9/25 14:18:18 10.126.6.225 Returned 304 in 2 ms
+ HTTP  2024/9/25 14:18:18 10.126.6.225 Returned 304 in 2 ms
+ HTTP  2024/9/25 14:18:18 10.126.6.225 GET /static/media/rightBottom.e6e44ff79fe3cbf0e666.png
+ HTTP  2024/9/25 14:18:18 10.126.6.225 GET /static/media/center.1e42b9ac6d3b26d708aa.png
+ HTTP  2024/9/25 14:18:18 10.126.6.225 Returned 304 in 1 ms
+ HTTP  2024/9/25 14:18:18 10.126.6.225 Returned 304 in 0 ms
+ HTTP  2024/9/25 14:18:18 10.126.6.225 GET /favicon.ico
+ HTTP  2024/9/25 14:18:18 10.126.6.225 Returned 304 in 5 ms
+ HTTP  2024/9/25 14:18:39 10.126.9.168 GET /
+ HTTP  2024/9/25 14:18:39 10.126.9.168 Returned 304 in 3 ms
+ HTTP  2024/9/25 14:18:39 10.126.9.168 GET /static/js/main.8e358760.js
+ HTTP  2024/9/25 14:18:39 10.126.9.168 Returned 200 in 10 ms
+ HTTP  2024/9/25 14:18:39 10.126.9.168 GET /static/css/main.c56c485d.css
+ HTTP  2024/9/25 14:18:39 10.126.9.168 Returned 304 in 1 ms
+ HTTP  2024/9/25 14:18:39 10.126.9.168 GET /static/media/background.5f1f6dde97424f4b5dbc.png
+ HTTP  2024/9/25 14:18:39 10.126.9.168 GET /static/media/circle.ab4e73a17e04171b5953.png
+ HTTP  2024/9/25 14:18:39 10.126.9.168 Returned 200 in 3 ms
+ HTTP  2024/9/25 14:18:39 10.126.9.168 Returned 200 in 2 ms
+ HTTP  2024/9/25 14:18:40 10.126.9.168 GET /static/media/topRight.4e6eedb27efcef9b1674.png
+ HTTP  2024/9/25 14:18:40 10.126.9.168 Returned 200 in 3 ms
+ HTTP  2024/9/25 14:18:40 10.126.9.168 GET /static/media/center.1e42b9ac6d3b26d708aa.png
+ HTTP  2024/9/25 14:18:40 10.126.9.168 Returned 200 in 1 ms
+ HTTP  2024/9/25 14:18:40 10.126.9.168 GET /static/media/rightBottom.e6e44ff79fe3cbf0e666.png
+ HTTP  2024/9/25 14:18:40 10.126.9.168 GET /static/media/leftTop.11fe04c867a5bdb98e99.png
+ HTTP  2024/9/25 14:18:40 10.126.9.168 Returned 200 in 1 ms
+ HTTP  2024/9/25 14:18:40 10.126.9.168 Returned 200 in 1 ms
+ HTTP  2024/9/25 14:18:40 10.126.9.168 GET /static/media/leftBottom.54ae231c95b4b59142a3.png
+ HTTP  2024/9/25 14:18:40 10.126.9.168 Returned 200 in 2 ms
+ HTTP  2024/9/25 14:25:35 10.126.6.225 GET /static/media/monitor.acb8e713fa56a4cae293.png
+ HTTP  2024/9/25 14:25:35 10.126.6.225 GET /static/media/coven.a837a05199137e65d603.png
+ HTTP  2024/9/25 14:25:35 10.126.6.225 GET /static/media/unReady.54ce739e33d07b8d1f19.png
+ HTTP  2024/9/25 14:25:35 10.126.6.225 Returned 304 in 4 ms
+ HTTP  2024/9/25 14:25:35 10.126.6.225 Returned 304 in 6 ms
+ HTTP  2024/9/25 14:25:35 10.126.6.225 Returned 304 in 10 ms
+ HTTP  2024/9/25 14:25:35 10.126.6.225 GET /static/media/finished.0f336341119896d6576b.png
+ HTTP  2024/9/25 14:25:35 10.126.6.225 GET /static/media/base.6e437c703b7871143fa9.png
+ HTTP  2024/9/25 14:25:35 10.126.6.225 GET /static/media/loading.915f0fc262109c9547b2.png
+ HTTP  2024/9/25 14:25:35 10.126.6.225 Returned 304 in 2 ms
+ HTTP  2024/9/25 14:25:35 10.126.6.225 Returned 304 in 2 ms
+ HTTP  2024/9/25 14:25:35 10.126.6.225 Returned 304 in 5 ms
+ HTTP  2024/9/25 14:49:24 10.126.6.225 GET /static/media/unreadyBeef.06b2ec3ab829b695cf5b.png
+ HTTP  2024/9/25 14:49:24 10.126.6.225 Returned 200 in 9 ms
+ HTTP  2024/9/25 14:50:20 10.126.6.225 GET /static/media/beefImg.25d82c8546b59d64cf39.png
+ HTTP  2024/9/25 14:50:20 10.126.6.225 Returned 200 in 7 ms
+ HTTP  2024/9/25 14:51:12 10.126.6.225 GET /static/media/finishedBeef.87f48e627b43f2ed8807.png
+ HTTP  2024/9/25 14:51:12 10.126.6.225 Returned 304 in 6 ms
+ HTTP  2024/9/25 16:42:06 10.126.6.225 GET /favicon.ico
+ HTTP  2024/9/25 16:42:06 10.126.6.225 Returned 304 in 12 ms
+ INFO  Accepting connections at http://localhost:53877
+ HTTP  2024/9/25 16:43:32 10.126.6.116 GET /
+ HTTP  2024/9/25 16:43:32 10.126.6.116 Returned 200 in 6 ms
+ HTTP  2024/9/25 16:43:32 10.126.6.116 GET /static/js/main.0516c592.js
+ HTTP  2024/9/25 16:43:32 10.126.6.116 GET /static/css/main.c56c485d.css
+ HTTP  2024/9/25 16:43:32 10.126.6.116 Returned 200 in 9 ms
+ HTTP  2024/9/25 16:43:32 10.126.6.116 Returned 200 in 16 ms
+ HTTP  2024/9/25 16:43:32 10.126.6.116 GET /static/media/background.5f1f6dde97424f4b5dbc.png
+ HTTP  2024/9/25 16:43:32 10.126.6.116 GET /static/media/circle.ab4e73a17e04171b5953.png
+ HTTP  2024/9/25 16:43:32 10.126.6.116 GET /static/media/topRight.4e6eedb27efcef9b1674.png
+ HTTP  2024/9/25 16:43:32 10.126.6.116 GET /static/media/rightBottom.e6e44ff79fe3cbf0e666.png
+ HTTP  2024/9/25 16:43:32 10.126.6.116 GET /static/media/center.1e42b9ac6d3b26d708aa.png
+ HTTP  2024/9/25 16:43:32 10.126.6.116 GET /static/media/leftTop.11fe04c867a5bdb98e99.png
+ HTTP  2024/9/25 16:43:32 10.126.6.116 Returned 200 in 4 ms
+ HTTP  2024/9/25 16:43:32 10.126.6.116 Returned 200 in 3 ms
+ HTTP  2024/9/25 16:43:32 10.126.6.116 Returned 200 in 2 ms
+ HTTP  2024/9/25 16:43:32 10.126.6.116 Returned 200 in 2 ms
+ HTTP  2024/9/25 16:43:32 10.126.6.116 GET /static/media/leftBottom.54ae231c95b4b59142a3.png
+ HTTP  2024/9/25 16:43:32 10.126.6.116 Returned 200 in 3 ms
+ HTTP  2024/9/25 16:43:32 10.126.6.116 Returned 200 in 7 ms
+ HTTP  2024/9/25 16:43:32 10.126.6.116 Returned 200 in 31 ms
+ HTTP  2024/9/25 16:43:33 10.126.6.116 GET /favicon.ico
+ HTTP  2024/9/25 16:43:33 10.126.6.116 Returned 200 in 2 ms
+ HTTP  2024/9/25 16:43:35 10.126.6.116 GET /static/media/monitor.acb8e713fa56a4cae293.png
+ HTTP  2024/9/25 16:43:35 10.126.6.116 GET /static/media/coven.a837a05199137e65d603.png
+ HTTP  2024/9/25 16:43:35 10.126.6.116 GET /static/media/unReady.54ce739e33d07b8d1f19.png
+ HTTP  2024/9/25 16:43:35 10.126.6.116 GET /static/media/loading.915f0fc262109c9547b2.png
+ HTTP  2024/9/25 16:43:35 10.126.6.116 GET /static/media/finished.0f336341119896d6576b.png
+ HTTP  2024/9/25 16:43:35 10.126.6.116 GET /static/media/base.6e437c703b7871143fa9.png
+ HTTP  2024/9/25 16:43:35 10.126.6.116 Returned 200 in 4 ms
+ HTTP  2024/9/25 16:43:35 10.126.6.116 Returned 200 in 4 ms
+ HTTP  2024/9/25 16:43:35 10.126.6.116 Returned 200 in 5 ms
+ HTTP  2024/9/25 16:43:35 10.126.6.116 Returned 200 in 6 ms
+ HTTP  2024/9/25 16:43:35 10.126.6.116 Returned 200 in 9 ms
+ HTTP  2024/9/25 16:43:35 10.126.6.116 Returned 200 in 8 ms
+ HTTP  2024/9/25 16:43:37 10.126.6.116 GET /static/media/beefImg.25d82c8546b59d64cf39.png
+ HTTP  2024/9/25 16:43:37 10.126.6.116 Returned 200 in 4 ms
+ HTTP  2024/9/25 16:44:37 10.126.6.116 GET /static/media/finishedBeef.87f48e627b43f2ed8807.png
+ HTTP  2024/9/25 16:44:37 10.126.6.116 Returned 200 in 4 ms
+ HTTP  2024/9/25 16:46:58 10.126.6.225 GET /
+ HTTP  2024/9/25 16:46:58 10.126.6.225 Returned 200 in 3 ms
+ HTTP  2024/9/25 16:46:58 10.126.6.225 GET /static/js/main.0516c592.js
+ HTTP  2024/9/25 16:46:58 10.126.6.225 Returned 200 in 3 ms
+ HTTP  2024/9/25 16:46:58 10.126.6.225 GET /static/css/main.c56c485d.css
+ HTTP  2024/9/25 16:46:58 10.126.6.225 Returned 304 in 1 ms
+ HTTP  2024/9/25 16:46:59 10.126.6.225 GET /static/media/background.5f1f6dde97424f4b5dbc.png
+ HTTP  2024/9/25 16:46:59 10.126.6.225 Returned 304 in 2 ms
+ HTTP  2024/9/25 16:46:59 10.126.6.225 GET /static/media/topRight.4e6eedb27efcef9b1674.png
+ HTTP  2024/9/25 16:46:59 10.126.6.225 Returned 304 in 1 ms
+ HTTP  2024/9/25 16:46:59 10.126.6.225 GET /static/media/rightBottom.e6e44ff79fe3cbf0e666.png
+ HTTP  2024/9/25 16:46:59 10.126.6.225 GET /static/media/center.1e42b9ac6d3b26d708aa.png
+ HTTP  2024/9/25 16:46:59 10.126.6.225 GET /static/media/leftTop.11fe04c867a5bdb98e99.png
+ HTTP  2024/9/25 16:46:59 10.126.6.225 Returned 304 in 5 ms
+ HTTP  2024/9/25 16:46:59 10.126.6.225 Returned 304 in 2 ms
+ HTTP  2024/9/25 16:46:59 10.126.6.225 Returned 304 in 1 ms
+ HTTP  2024/9/25 16:46:59 10.126.6.225 GET /static/media/circle.ab4e73a17e04171b5953.png
+ HTTP  2024/9/25 16:46:59 10.126.6.225 GET /static/media/leftBottom.54ae231c95b4b59142a3.png
+ HTTP  2024/9/25 16:46:59 10.126.6.225 Returned 304 in 0 ms
+ HTTP  2024/9/25 16:46:59 10.126.6.225 Returned 304 in 1 ms
+ HTTP  2024/9/25 16:46:59 10.126.6.225 GET /favicon.ico
+ HTTP  2024/9/25 16:46:59 10.126.6.225 Returned 304 in 2 ms
+ HTTP  2024/9/25 16:47:02 10.126.6.225 GET /static/media/monitor.acb8e713fa56a4cae293.png
+ HTTP  2024/9/25 16:47:02 10.126.6.225 GET /static/media/coven.a837a05199137e65d603.png
+ HTTP  2024/9/25 16:47:02 10.126.6.225 GET /static/media/loading.915f0fc262109c9547b2.png
+ HTTP  2024/9/25 16:47:02 10.126.6.225 GET /static/media/finished.0f336341119896d6576b.png
+ HTTP  2024/9/25 16:47:02 10.126.6.225 GET /static/media/base.6e437c703b7871143fa9.png
+ HTTP  2024/9/25 16:47:02 10.126.6.225 GET /static/media/unReady.54ce739e33d07b8d1f19.png
+ HTTP  2024/9/25 16:47:02 10.126.6.225 Returned 304 in 4 ms
+ HTTP  2024/9/25 16:47:02 10.126.6.225 Returned 304 in 2 ms
+ HTTP  2024/9/25 16:47:02 10.126.6.225 Returned 304 in 3 ms
+ HTTP  2024/9/25 16:47:02 10.126.6.225 Returned 304 in 3 ms
+ HTTP  2024/9/25 16:47:02 10.126.6.225 Returned 304 in 2 ms
+ HTTP  2024/9/25 16:47:02 10.126.6.225 Returned 304 in 3 ms
+ HTTP  2024/9/25 16:47:04 10.126.6.225 GET /static/media/finishedBeef.87f48e627b43f2ed8807.png
+ HTTP  2024/9/25 16:47:04 10.126.6.225 Returned 304 in 2 ms
+ HTTP  2024/9/25 16:48:10 10.126.6.116 GET /
+ HTTP  2024/9/25 16:48:10 10.126.6.116 Returned 304 in 1 ms
+ HTTP  2024/9/25 16:48:10 10.126.6.116 GET /static/js/main.0516c592.js
+ HTTP  2024/9/25 16:48:10 10.126.6.116 Returned 304 in 1 ms
+ HTTP  2024/9/25 16:48:10 10.126.6.116 GET /static/css/main.c56c485d.css
+ HTTP  2024/9/25 16:48:10 10.126.6.116 Returned 304 in 0 ms
+ HTTP  2024/9/25 16:48:11 10.126.6.116 GET /static/media/background.5f1f6dde97424f4b5dbc.png
+ HTTP  2024/9/25 16:48:11 10.126.6.116 GET /static/media/circle.ab4e73a17e04171b5953.png
+ HTTP  2024/9/25 16:48:11 10.126.6.116 Returned 304 in 4 ms
+ HTTP  2024/9/25 16:48:11 10.126.6.116 Returned 304 in 3 ms
+ HTTP  2024/9/25 16:48:11 10.126.6.116 GET /static/media/rightBottom.e6e44ff79fe3cbf0e666.png
+ HTTP  2024/9/25 16:48:11 10.126.6.116 GET /static/media/leftTop.11fe04c867a5bdb98e99.png
+ HTTP  2024/9/25 16:48:11 10.126.6.116 Returned 304 in 1 ms
+ HTTP  2024/9/25 16:48:11 10.126.6.116 GET /static/media/center.1e42b9ac6d3b26d708aa.png
+ HTTP  2024/9/25 16:48:11 10.126.6.116 Returned 304 in 3 ms
+ HTTP  2024/9/25 16:48:11 10.126.6.116 GET /static/media/leftBottom.54ae231c95b4b59142a3.png
+ HTTP  2024/9/25 16:48:11 10.126.6.116 Returned 304 in 4 ms
+ HTTP  2024/9/25 16:48:11 10.126.6.116 GET /static/media/topRight.4e6eedb27efcef9b1674.png
+ HTTP  2024/9/25 16:48:11 10.126.6.116 Returned 304 in 2 ms
+ HTTP  2024/9/25 16:48:11 10.126.6.116 Returned 304 in 3 ms
+ HTTP  2024/9/25 16:48:12 10.126.6.116 GET /static/media/loading.915f0fc262109c9547b2.png
+ HTTP  2024/9/25 16:48:12 10.126.6.116 GET /static/media/monitor.acb8e713fa56a4cae293.png
+ HTTP  2024/9/25 16:48:12 10.126.6.116 Returned 304 in 2 ms
+ HTTP  2024/9/25 16:48:12 10.126.6.116 Returned 304 in 1 ms
+ HTTP  2024/9/25 16:48:12 10.126.6.116 GET /static/media/coven.a837a05199137e65d603.png
+ HTTP  2024/9/25 16:48:12 10.126.6.116 Returned 304 in 1 ms
+ HTTP  2024/9/25 16:48:12 10.126.6.116 GET /static/media/unReady.54ce739e33d07b8d1f19.png
+ HTTP  2024/9/25 16:48:12 10.126.6.116 Returned 304 in 0 ms
+ HTTP  2024/9/25 16:48:12 10.126.6.116 GET /static/media/finished.0f336341119896d6576b.png
+ HTTP  2024/9/25 16:48:12 10.126.6.116 GET /static/media/base.6e437c703b7871143fa9.png
+ HTTP  2024/9/25 16:48:12 10.126.6.116 Returned 304 in 0 ms
+ HTTP  2024/9/25 16:48:12 10.126.6.116 Returned 304 in 0 ms
+ HTTP  2024/9/25 16:48:13 10.126.6.116 GET /static/media/finishedBeef.87f48e627b43f2ed8807.png
+ HTTP  2024/9/25 16:48:13 10.126.6.116 Returned 304 in 1 ms
+ HTTP  2024/9/25 16:48:18 10.126.6.116 GET /static/media/monitor.0031f9b735c4ea80c52d.png
+ HTTP  2024/9/25 16:48:18 10.126.6.116 GET /static/media/monitorTitle.60e191577da1eeffecbc.png
+ HTTP  2024/9/25 16:48:18 10.126.6.116 GET /static/media/covenFree.debcef0a50c40bee6115.png
+ HTTP  2024/9/25 16:48:18 10.126.6.116 GET /static/media/todayTransfer.68bf0daa0a571935a9f4.png
+ HTTP  2024/9/25 16:48:18 10.126.6.116 GET /static/media/todayTrashRecord.ae9d537189b7db4f6fb8.png
+ HTTP  2024/9/25 16:48:18 10.126.6.116 GET /static/media/trashRecord.6cc1813bf8162d6b8ff4.png
+ HTTP  2024/9/25 16:48:18 10.126.6.116 Returned 200 in 3 ms
+ HTTP  2024/9/25 16:48:18 10.126.6.116 Returned 200 in 6 ms
+ HTTP  2024/9/25 16:48:18 10.126.6.116 Returned 200 in 7 ms
+ HTTP  2024/9/25 16:48:18 10.126.6.116 Returned 200 in 5 ms
+ HTTP  2024/9/25 16:48:18 10.126.6.116 GET /static/media/trash-background.d8f336f65bb1585fbb4c.png
+ HTTP  2024/9/25 16:48:18 10.126.6.116 Returned 200 in 7 ms
+ HTTP  2024/9/25 16:48:18 10.126.6.116 Returned 200 in 6 ms
+ HTTP  2024/9/25 16:48:18 10.126.6.116 Returned 200 in 3 ms
+ HTTP  2024/9/25 16:48:21 10.126.6.116 GET /static/media/current.64415a69d9e62bc1298a.png
+ HTTP  2024/9/25 16:48:21 10.126.6.116 GET /static/media/base.c80fded787e2dc60ce55.png
+ HTTP  2024/9/25 16:48:21 10.126.6.116 GET /static/media/background.058a1096fe7732a658a8.png
+ HTTP  2024/9/25 16:48:21 10.126.6.116 GET /static/media/success.e4bb71e835ea86d67bdd.png
+ HTTP  2024/9/25 16:48:21 10.126.6.116 Returned 200 in 4 ms
+ HTTP  2024/9/25 16:48:21 10.126.6.116 Returned 200 in 3 ms
+ HTTP  2024/9/25 16:48:21 10.126.6.116 Returned 200 in 5 ms
+ HTTP  2024/9/25 16:48:21 10.126.6.116 Returned 200 in 4 ms
+ HTTP  2024/9/25 16:49:10 10.126.6.116 GET /static/media/griImg.5e3525ae8c71f682dfc1.png
+ HTTP  2024/9/25 16:49:10 10.126.6.116 Returned 200 in 3 ms
+ HTTP  2024/9/25 16:49:11 10.126.6.225 GET /static/media/griImg.5e3525ae8c71f682dfc1.png
+ HTTP  2024/9/25 16:49:11 10.126.6.225 Returned 200 in 2 ms
+ HTTP  2024/9/25 16:49:38 10.126.6.225 GET /favicon.ico
+ HTTP  2024/9/25 16:49:38 10.126.6.225 Returned 304 in 2 ms
+ HTTP  2024/9/25 16:59:47 10.126.6.225 GET /static/media/unreadyBeef.06b2ec3ab829b695cf5b.png
+ HTTP  2024/9/25 16:59:47 10.126.6.225 Returned 304 in 9 ms
+ HTTP  2024/9/25 16:59:48 10.126.6.116 GET /static/media/unreadyBeef.06b2ec3ab829b695cf5b.png
+ HTTP  2024/9/25 16:59:48 10.126.6.116 Returned 200 in 5 ms
+ HTTP  2024/9/25 16:59:52 10.126.6.225 GET /static/media/beefImg.25d82c8546b59d64cf39.png
+ HTTP  2024/9/25 16:59:52 10.126.6.225 Returned 304 in 1 ms
+ HTTP  2024/9/25 16:59:58 10.126.6.116 GET /static/media/beefImg.25d82c8546b59d64cf39.png
+ HTTP  2024/9/25 16:59:58 10.126.6.116 Returned 304 in 1 ms
+ INFO  Accepting connections at http://localhost:62493
+ HTTP  2024/9/25 17:56:41 10.126.6.116 GET /
+ HTTP  2024/9/25 17:56:41 10.126.6.116 Returned 200 in 10 ms
+ HTTP  2024/9/25 17:56:41 10.126.6.116 GET /static/js/main.edacdb43.js
+ HTTP  2024/9/25 17:56:41 10.126.6.116 GET /static/css/main.c56c485d.css
+ HTTP  2024/9/25 17:56:41 10.126.6.116 Returned 304 in 1 ms
+ HTTP  2024/9/25 17:56:41 10.126.6.116 Returned 200 in 6 ms
+ HTTP  2024/9/25 17:56:41 10.126.6.116 GET /static/media/background.5f1f6dde97424f4b5dbc.png
+ HTTP  2024/9/25 17:56:41 10.126.6.116 GET /static/media/circle.ab4e73a17e04171b5953.png
+ HTTP  2024/9/25 17:56:41 10.126.6.116 GET /static/media/topRight.4e6eedb27efcef9b1674.png
+ HTTP  2024/9/25 17:56:41 10.126.6.116 GET /static/media/rightBottom.e6e44ff79fe3cbf0e666.png
+ HTTP  2024/9/25 17:56:41 10.126.6.116 GET /static/media/center.1e42b9ac6d3b26d708aa.png
+ HTTP  2024/9/25 17:56:41 10.126.6.116 GET /static/media/leftTop.11fe04c867a5bdb98e99.png
+ HTTP  2024/9/25 17:56:41 10.126.6.116 Returned 304 in 3 ms
+ HTTP  2024/9/25 17:56:41 10.126.6.116 GET /static/media/leftBottom.54ae231c95b4b59142a3.png
+ HTTP  2024/9/25 17:56:41 10.126.6.116 Returned 304 in 5 ms
+ HTTP  2024/9/25 17:56:41 10.126.6.116 Returned 304 in 6 ms
+ HTTP  2024/9/25 17:56:41 10.126.6.116 Returned 304 in 7 ms
+ HTTP  2024/9/25 17:56:41 10.126.6.116 Returned 304 in 5 ms
+ HTTP  2024/9/25 17:56:41 10.126.6.116 Returned 304 in 10 ms
+ HTTP  2024/9/25 17:56:41 10.126.6.116 Returned 304 in 17 ms
+ HTTP  2024/9/25 17:56:41 10.126.6.116 GET /favicon.ico
+ HTTP  2024/9/25 17:56:41 10.126.6.116 Returned 304 in 2 ms
+ HTTP  2024/9/25 17:56:42 10.126.6.116 GET /static/media/monitor.acb8e713fa56a4cae293.png
+ HTTP  2024/9/25 17:56:42 10.126.6.116 GET /static/media/coven.a837a05199137e65d603.png
+ HTTP  2024/9/25 17:56:42 10.126.6.116 GET /static/media/unReady.54ce739e33d07b8d1f19.png
+ HTTP  2024/9/25 17:56:42 10.126.6.116 GET /static/media/loading.915f0fc262109c9547b2.png
+ HTTP  2024/9/25 17:56:42 10.126.6.116 GET /static/media/finished.0f336341119896d6576b.png
+ HTTP  2024/9/25 17:56:42 10.126.6.116 GET /static/media/base.6e437c703b7871143fa9.png
+ HTTP  2024/9/25 17:56:42 10.126.6.116 Returned 304 in 5 ms
+ HTTP  2024/9/25 17:56:42 10.126.6.116 Returned 304 in 10 ms
+ HTTP  2024/9/25 17:56:42 10.126.6.116 Returned 304 in 4 ms
+ HTTP  2024/9/25 17:56:42 10.126.6.116 Returned 304 in 3 ms
+ HTTP  2024/9/25 17:56:42 10.126.6.116 Returned 304 in 21 ms
+ HTTP  2024/9/25 17:56:42 10.126.6.116 Returned 304 in 11 ms
+ HTTP  2024/9/25 17:57:06 10.126.6.116 GET /static/media/griImg.5e3525ae8c71f682dfc1.png
+ HTTP  2024/9/25 17:57:06 10.126.6.116 Returned 304 in 3 ms
+ HTTP  2024/9/25 17:59:15 10.126.6.225 GET /
+ HTTP  2024/9/25 17:59:15 10.126.6.225 Returned 200 in 4 ms
+ HTTP  2024/9/25 17:59:15 10.126.6.225 GET /static/js/main.edacdb43.js
+ HTTP  2024/9/25 17:59:15 10.126.6.225 GET /static/css/main.c56c485d.css
+ HTTP  2024/9/25 17:59:15 10.126.6.225 Returned 200 in 2 ms
+ HTTP  2024/9/25 17:59:15 10.126.6.225 Returned 304 in 3 ms
+ HTTP  2024/9/25 17:59:16 10.126.6.225 GET /static/media/background.5f1f6dde97424f4b5dbc.png
+ HTTP  2024/9/25 17:59:16 10.126.6.225 Returned 304 in 1 ms
+ HTTP  2024/9/25 17:59:16 10.126.6.225 GET /static/media/circle.ab4e73a17e04171b5953.png
+ HTTP  2024/9/25 17:59:16 10.126.6.225 Returned 304 in 0 ms
+ HTTP  2024/9/25 17:59:16 10.126.6.225 GET /static/media/topRight.4e6eedb27efcef9b1674.png
+ HTTP  2024/9/25 17:59:16 10.126.6.225 Returned 304 in 1 ms
+ HTTP  2024/9/25 17:59:16 10.126.6.225 GET /static/media/center.1e42b9ac6d3b26d708aa.png
+ HTTP  2024/9/25 17:59:16 10.126.6.225 GET /static/media/rightBottom.e6e44ff79fe3cbf0e666.png
+ HTTP  2024/9/25 17:59:16 10.126.6.225 Returned 304 in 1 ms
+ HTTP  2024/9/25 17:59:16 10.126.6.225 Returned 304 in 0 ms
+ HTTP  2024/9/25 17:59:16 10.126.6.225 GET /static/media/leftTop.11fe04c867a5bdb98e99.png
+ HTTP  2024/9/25 17:59:16 10.126.6.225 Returned 304 in 1 ms
+ HTTP  2024/9/25 17:59:16 10.126.6.225 GET /static/media/leftBottom.54ae231c95b4b59142a3.png
+ HTTP  2024/9/25 17:59:16 10.126.6.225 Returned 304 in 0 ms
+ HTTP  2024/9/25 17:59:16 10.126.6.225 GET /favicon.ico
+ HTTP  2024/9/25 17:59:16 10.126.6.225 Returned 304 in 2 ms
+ HTTP  2024/9/25 17:59:24 10.126.6.225 GET /static/media/monitor.acb8e713fa56a4cae293.png
+ HTTP  2024/9/25 17:59:24 10.126.6.225 Returned 304 in 2 ms
+ HTTP  2024/9/25 17:59:24 10.126.6.225 GET /static/media/coven.a837a05199137e65d603.png
+ HTTP  2024/9/25 17:59:24 10.126.6.225 GET /static/media/finished.0f336341119896d6576b.png
+ HTTP  2024/9/25 17:59:24 10.126.6.225 Returned 304 in 3 ms
+ HTTP  2024/9/25 17:59:24 10.126.6.225 Returned 304 in 3 ms
+ HTTP  2024/9/25 17:59:24 10.126.6.225 GET /static/media/loading.915f0fc262109c9547b2.png
+ HTTP  2024/9/25 17:59:24 10.126.6.225 Returned 304 in 0 ms
+ HTTP  2024/9/25 17:59:24 10.126.6.225 GET /static/media/unReady.54ce739e33d07b8d1f19.png
+ HTTP  2024/9/25 17:59:24 10.126.6.225 GET /static/media/base.6e437c703b7871143fa9.png
+ HTTP  2024/9/25 17:59:24 10.126.6.225 Returned 304 in 0 ms
+ HTTP  2024/9/25 17:59:24 10.126.6.225 Returned 304 in 1 ms
+ HTTP  2024/9/25 17:59:41 10.126.6.225 GET /favicon.ico
+ HTTP  2024/9/25 17:59:41 10.126.6.225 Returned 304 in 4 ms
+ HTTP  2024/9/25 18:02:03 10.126.6.225 GET /static/media/griImg.5e3525ae8c71f682dfc1.png
+ HTTP  2024/9/25 18:02:03 10.126.6.225 Returned 304 in 10 ms
+ HTTP  2024/9/25 18:05:50 10.126.6.225 GET /static/media/trash-background.d8f336f65bb1585fbb4c.png
+ HTTP  2024/9/25 18:05:50 10.126.6.225 GET /static/media/monitor.0031f9b735c4ea80c52d.png
+ HTTP  2024/9/25 18:05:50 10.126.6.225 GET /static/media/monitorTitle.60e191577da1eeffecbc.png
+ HTTP  2024/9/25 18:05:50 10.126.6.225 GET /static/media/covenFree.debcef0a50c40bee6115.png
+ HTTP  2024/9/25 18:05:50 10.126.6.225 GET /static/media/todayTrashRecord.ae9d537189b7db4f6fb8.png
+ HTTP  2024/9/25 18:05:50 10.126.6.225 GET /static/media/todayTransfer.68bf0daa0a571935a9f4.png
+ HTTP  2024/9/25 18:05:50 10.126.6.225 Returned 304 in 10 ms
+ HTTP  2024/9/25 18:05:50 10.126.6.225 Returned 304 in 2 ms
+ HTTP  2024/9/25 18:05:50 10.126.6.225 Returned 304 in 5 ms
+ HTTP  2024/9/25 18:05:50 10.126.6.225 Returned 304 in 4 ms
+ HTTP  2024/9/25 18:05:50 10.126.6.225 Returned 304 in 3 ms
+ HTTP  2024/9/25 18:05:50 10.126.6.225 Returned 304 in 3 ms
+ HTTP  2024/9/25 18:05:50 10.126.6.225 GET /static/media/trashRecord.6cc1813bf8162d6b8ff4.png
+ HTTP  2024/9/25 18:05:50 10.126.6.225 Returned 304 in 3 ms
+ HTTP  2024/9/25 18:08:24 10.126.6.225 GET /static/media/finishedBeef.87f48e627b43f2ed8807.png
+ HTTP  2024/9/25 18:08:24 10.126.6.225 GET /static/media/redFlag.29cb694cac039a2aa222.png
+ HTTP  2024/9/25 18:08:24 10.126.6.225 Returned 304 in 4 ms
+ HTTP  2024/9/25 18:08:24 10.126.6.225 Returned 304 in 3 ms
+ HTTP  2024/9/25 18:21:51 10.126.6.225 GET /
+ HTTP  2024/9/25 18:21:51 10.126.6.225 Returned 304 in 7 ms
+ HTTP  2024/9/25 18:21:51 10.126.6.225 GET /static/js/main.edacdb43.js
+ HTTP  2024/9/25 18:21:51 10.126.6.225 Returned 304 in 0 ms
+ HTTP  2024/9/25 18:21:51 10.126.6.225 GET /static/css/main.c56c485d.css
+ HTTP  2024/9/25 18:21:51 10.126.6.225 Returned 304 in 1 ms
+ HTTP  2024/9/25 18:21:51 10.126.6.225 GET /static/media/background.5f1f6dde97424f4b5dbc.png
+ HTTP  2024/9/25 18:21:51 10.126.6.225 Returned 304 in 1 ms
+ HTTP  2024/9/25 18:21:51 10.126.6.225 GET /static/media/leftBottom.54ae231c95b4b59142a3.png
+ HTTP  2024/9/25 18:21:51 10.126.6.225 Returned 304 in 2 ms
+ HTTP  2024/9/25 18:21:51 10.126.6.225 GET /static/media/leftTop.11fe04c867a5bdb98e99.png
+ HTTP  2024/9/25 18:21:51 10.126.6.225 GET /static/media/circle.ab4e73a17e04171b5953.png
+ HTTP  2024/9/25 18:21:51 10.126.6.225 Returned 304 in 1 ms
+ HTTP  2024/9/25 18:21:51 10.126.6.225 Returned 304 in 0 ms
+ HTTP  2024/9/25 18:21:51 10.126.6.225 GET /static/media/topRight.4e6eedb27efcef9b1674.png
+ HTTP  2024/9/25 18:21:51 10.126.6.225 Returned 304 in 1 ms
+ HTTP  2024/9/25 18:21:51 10.126.6.225 GET /static/media/center.1e42b9ac6d3b26d708aa.png
+ HTTP  2024/9/25 18:21:51 10.126.6.225 GET /static/media/rightBottom.e6e44ff79fe3cbf0e666.png
+ HTTP  2024/9/25 18:21:51 10.126.6.225 Returned 304 in 1 ms
+ HTTP  2024/9/25 18:21:51 10.126.6.225 Returned 304 in 0 ms
+ HTTP  2024/9/25 18:21:52 10.126.6.225 GET /favicon.ico
+ HTTP  2024/9/25 18:21:52 10.126.6.225 Returned 304 in 1 ms
+ HTTP  2024/9/25 18:21:59 10.126.6.225 GET /static/media/current.64415a69d9e62bc1298a.png
+ HTTP  2024/9/25 18:21:59 10.126.6.225 Returned 304 in 3 ms
+ HTTP  2024/9/25 18:21:59 10.126.6.225 GET /static/media/success.e4bb71e835ea86d67bdd.png
+ HTTP  2024/9/25 18:21:59 10.126.6.225 Returned 200 in 2 ms
+ HTTP  2024/9/25 18:21:59 10.126.6.225 GET /static/media/base.c80fded787e2dc60ce55.png
+ HTTP  2024/9/25 18:21:59 10.126.6.225 GET /static/media/background.058a1096fe7732a658a8.png
+ HTTP  2024/9/25 18:21:59 10.126.6.225 Returned 304 in 1 ms
+ HTTP  2024/9/25 18:21:59 10.126.6.225 Returned 304 in 2 ms
+ HTTP  2024/9/25 18:23:09 10.126.6.225 GET /static/media/monitorTitle.60e191577da1eeffecbc.png
+ HTTP  2024/9/25 18:23:09 10.126.6.225 GET /static/media/monitor.0031f9b735c4ea80c52d.png
+ HTTP  2024/9/25 18:23:09 10.126.6.225 Returned 304 in 3 ms
+ HTTP  2024/9/25 18:23:09 10.126.6.225 Returned 304 in 1 ms
+ HTTP  2024/9/25 18:23:09 10.126.6.225 GET /static/media/todayTransfer.68bf0daa0a571935a9f4.png
+ HTTP  2024/9/25 18:23:09 10.126.6.225 Returned 304 in 1 ms
+ HTTP  2024/9/25 18:23:09 10.126.6.225 GET /static/media/covenFree.debcef0a50c40bee6115.png
+ HTTP  2024/9/25 18:23:09 10.126.6.225 Returned 304 in 0 ms
+ HTTP  2024/9/25 18:23:09 10.126.6.225 GET /static/media/todayTrashRecord.ae9d537189b7db4f6fb8.png
+ HTTP  2024/9/25 18:23:09 10.126.6.225 GET /static/media/trashRecord.6cc1813bf8162d6b8ff4.png
+ HTTP  2024/9/25 18:23:09 10.126.6.225 Returned 304 in 1 ms
+ HTTP  2024/9/25 18:23:09 10.126.6.225 Returned 304 in 1 ms
+ HTTP  2024/9/25 18:23:09 10.126.6.225 GET /static/media/trash-background.d8f336f65bb1585fbb4c.png
+ HTTP  2024/9/25 18:23:09 10.126.6.225 Returned 304 in 0 ms
+ HTTP  2024/9/25 18:23:10 10.126.6.225 GET /static/media/redFlag.29cb694cac039a2aa222.png
+ HTTP  2024/9/25 18:23:10 10.126.6.225 GET /static/media/finishedBeef.87f48e627b43f2ed8807.png
+ HTTP  2024/9/25 18:23:10 10.126.6.225 Returned 304 in 1 ms
+ HTTP  2024/9/25 18:23:10 10.126.6.225 Returned 304 in 2 ms
+ INFO  Accepting connections at http://localhost:56357
+ HTTP  2024/9/25 18:26:41 10.126.6.116 GET /
+ HTTP  2024/9/25 18:26:41 10.126.6.116 Returned 200 in 6 ms
+ HTTP  2024/9/25 18:26:41 10.126.6.116 GET /static/js/main.7f1ea496.js
+ HTTP  2024/9/25 18:26:41 10.126.6.116 GET /static/css/main.c56c485d.css
+ HTTP  2024/9/25 18:26:41 10.126.6.116 Returned 304 in 1 ms
+ HTTP  2024/9/25 18:26:41 10.126.6.116 Returned 200 in 6 ms
+ HTTP  2024/9/25 18:26:41 10.126.6.116 GET /static/media/background.5f1f6dde97424f4b5dbc.png
+ HTTP  2024/9/25 18:26:41 10.126.6.116 GET /static/media/circle.ab4e73a17e04171b5953.png
+ HTTP  2024/9/25 18:26:41 10.126.6.116 GET /static/media/topRight.4e6eedb27efcef9b1674.png
+ HTTP  2024/9/25 18:26:41 10.126.6.116 GET /static/media/rightBottom.e6e44ff79fe3cbf0e666.png
+ HTTP  2024/9/25 18:26:41 10.126.6.116 GET /static/media/center.1e42b9ac6d3b26d708aa.png
+ HTTP  2024/9/25 18:26:41 10.126.6.116 GET /static/media/leftTop.11fe04c867a5bdb98e99.png
+ HTTP  2024/9/25 18:26:41 10.126.6.116 Returned 304 in 6 ms
+ HTTP  2024/9/25 18:26:41 10.126.6.116 GET /static/media/leftBottom.54ae231c95b4b59142a3.png
+ HTTP  2024/9/25 18:26:41 10.126.6.116 Returned 304 in 3 ms
+ HTTP  2024/9/25 18:26:41 10.126.6.116 Returned 304 in 3 ms
+ HTTP  2024/9/25 18:26:41 10.126.6.116 Returned 304 in 2 ms
+ HTTP  2024/9/25 18:26:41 10.126.6.116 Returned 304 in 2 ms
+ HTTP  2024/9/25 18:26:41 10.126.6.116 Returned 304 in 8 ms
+ HTTP  2024/9/25 18:26:41 10.126.6.116 Returned 304 in 19 ms
+ HTTP  2024/9/25 18:26:41 10.126.6.116 GET /favicon.ico
+ HTTP  2024/9/25 18:26:41 10.126.6.116 Returned 304 in 1 ms
+ HTTP  2024/9/25 18:26:43 10.126.6.116 GET /static/media/monitor.acb8e713fa56a4cae293.png
+ HTTP  2024/9/25 18:26:43 10.126.6.116 GET /static/media/coven.a837a05199137e65d603.png
+ HTTP  2024/9/25 18:26:43 10.126.6.116 GET /static/media/unReady.54ce739e33d07b8d1f19.png
+ HTTP  2024/9/25 18:26:43 10.126.6.116 GET /static/media/loading.915f0fc262109c9547b2.png
+ HTTP  2024/9/25 18:26:43 10.126.6.116 GET /static/media/finished.0f336341119896d6576b.png
+ HTTP  2024/9/25 18:26:43 10.126.6.116 GET /static/media/base.6e437c703b7871143fa9.png
+ HTTP  2024/9/25 18:26:43 10.126.6.116 Returned 304 in 2 ms
+ HTTP  2024/9/25 18:26:43 10.126.6.116 Returned 304 in 2 ms
+ HTTP  2024/9/25 18:26:43 10.126.6.116 Returned 304 in 3 ms
+ HTTP  2024/9/25 18:26:43 10.126.6.116 Returned 304 in 4 ms
+ HTTP  2024/9/25 18:26:43 10.126.6.116 Returned 304 in 6 ms
+ HTTP  2024/9/25 18:26:43 10.126.6.116 Returned 304 in 4 ms
+ HTTP  2024/9/25 18:26:46 10.126.6.116 GET /static/media/monitor.0031f9b735c4ea80c52d.png
+ HTTP  2024/9/25 18:26:46 10.126.6.116 GET /static/media/monitorTitle.60e191577da1eeffecbc.png
+ HTTP  2024/9/25 18:26:46 10.126.6.116 GET /static/media/covenFree.debcef0a50c40bee6115.png
+ HTTP  2024/9/25 18:26:46 10.126.6.116 GET /static/media/todayTransfer.68bf0daa0a571935a9f4.png
+ HTTP  2024/9/25 18:26:46 10.126.6.116 GET /static/media/todayTrashRecord.ae9d537189b7db4f6fb8.png
+ HTTP  2024/9/25 18:26:46 10.126.6.116 GET /static/media/trashRecord.6cc1813bf8162d6b8ff4.png
+ HTTP  2024/9/25 18:26:46 10.126.6.116 Returned 304 in 13 ms
+ HTTP  2024/9/25 18:26:46 10.126.6.116 Returned 304 in 15 ms
+ HTTP  2024/9/25 18:26:46 10.126.6.116 GET /static/media/trash-background.d8f336f65bb1585fbb4c.png
+ HTTP  2024/9/25 18:26:46 10.126.6.116 Returned 304 in 11 ms
+ HTTP  2024/9/25 18:26:46 10.126.6.116 Returned 304 in 11 ms
+ HTTP  2024/9/25 18:26:46 10.126.6.116 Returned 304 in 9 ms
+ HTTP  2024/9/25 18:26:46 10.126.6.116 Returned 304 in 10 ms
+ HTTP  2024/9/25 18:26:46 10.126.6.116 Returned 304 in 2 ms
+ HTTP  2024/9/25 18:26:47 10.126.6.116 GET /static/media/redFlag.29cb694cac039a2aa222.png
+ HTTP  2024/9/25 18:26:47 10.126.6.116 GET /static/media/finishedBeef.87f48e627b43f2ed8807.png
+ HTTP  2024/9/25 18:26:47 10.126.6.116 Returned 200 in 3 ms
+ HTTP  2024/9/25 18:26:47 10.126.6.116 Returned 304 in 3 ms
+ HTTP  2024/9/25 18:27:28 10.126.6.225 GET /
+ HTTP  2024/9/25 18:27:28 10.126.6.225 Returned 200 in 2 ms
+ HTTP  2024/9/25 18:27:28 10.126.6.225 GET /static/js/main.7f1ea496.js
+ HTTP  2024/9/25 18:27:28 10.126.6.225 GET /static/css/main.c56c485d.css
+ HTTP  2024/9/25 18:27:28 10.126.6.225 Returned 200 in 1 ms
+ HTTP  2024/9/25 18:27:28 10.126.6.225 Returned 304 in 2 ms
+ HTTP  2024/9/25 18:27:29 10.126.6.225 GET /favicon.ico
+ HTTP  2024/9/25 18:27:29 10.126.6.225 Returned 304 in 1 ms
+ HTTP  2024/9/25 18:28:52 10.126.6.116 GET /manifest.json
+ HTTP  2024/9/25 18:28:52 10.126.6.116 GET /static/css/main.c56c485d.css
+ HTTP  2024/9/25 18:28:52 10.126.6.116 Returned 304 in 1 ms
+ HTTP  2024/9/25 18:28:52 10.126.6.116 Returned 200 in 6 ms
+ HTTP  2024/9/25 18:28:52 10.126.6.116 GET /static/js/main.7f1ea496.js.map
+ HTTP  2024/9/25 18:28:52 10.126.6.116 GET /static/css/main.c56c485d.css.map
+ HTTP  2024/9/25 18:28:52 10.126.6.116 Returned 200 in 2 ms
+ HTTP  2024/9/25 18:28:52 10.126.6.116 Returned 200 in 14 ms
+ HTTP  2024/9/25 18:35:32 10.126.6.225 GET /favicon.ico
+ HTTP  2024/9/25 18:35:32 10.126.6.225 Returned 304 in 8 ms
+ HTTP  2024/9/25 19:00:08 10.126.6.225 GET /static/media/coven.a837a05199137e65d603.png
+ HTTP  2024/9/25 19:00:08 10.126.6.225 GET /static/media/unReady.54ce739e33d07b8d1f19.png
+ HTTP  2024/9/25 19:00:08 10.126.6.225 GET /static/media/loading.915f0fc262109c9547b2.png
+ HTTP  2024/9/25 19:00:08 10.126.6.225 GET /static/media/finished.0f336341119896d6576b.png
+ HTTP  2024/9/25 19:00:08 10.126.6.225 GET /static/media/base.6e437c703b7871143fa9.png
+ HTTP  2024/9/25 19:00:08 10.126.6.225 GET /static/media/monitor.acb8e713fa56a4cae293.png
+ HTTP  2024/9/25 19:00:08 10.126.6.225 Returned 304 in 4 ms
+ HTTP  2024/9/25 19:00:08 10.126.6.225 Returned 304 in 2 ms
+ HTTP  2024/9/25 19:00:08 10.126.6.225 Returned 304 in 2 ms
+ HTTP  2024/9/25 19:00:08 10.126.6.225 Returned 304 in 3 ms
+ HTTP  2024/9/25 19:00:08 10.126.6.225 Returned 304 in 3 ms
+ HTTP  2024/9/25 19:00:08 10.126.6.225 Returned 304 in 3 ms
+ HTTP  2024/9/25 20:50:20 10.126.6.116 GET /static/media/current.64415a69d9e62bc1298a.png
+ HTTP  2024/9/25 20:50:20 10.126.6.116 GET /static/media/background.058a1096fe7732a658a8.png
+ HTTP  2024/9/25 20:50:20 10.126.6.116 GET /static/media/success.e4bb71e835ea86d67bdd.png
+ HTTP  2024/9/25 20:50:20 10.126.6.116 GET /static/media/base.c80fded787e2dc60ce55.png
+ HTTP  2024/9/25 20:50:20 10.126.6.116 Returned 304 in 17 ms
+ HTTP  2024/9/25 20:50:20 10.126.6.116 Returned 304 in 6 ms
+ HTTP  2024/9/25 20:50:20 10.126.6.116 Returned 304 in 2 ms
+ HTTP  2024/9/25 20:50:20 10.126.6.116 Returned 304 in 4 ms
+ HTTP  2024/9/26 13:09:03 10.126.6.116 GET /
+ HTTP  2024/9/26 13:09:03 10.126.6.116 Returned 200 in 25 ms
+ INFO  Accepting connections at http://localhost:3000
+ INFO  Accepting connections at http://localhost:55590
+ INFO  Accepting connections at http://localhost:56176
+ HTTP  2024/10/9 04:53:31 ::1 GET /
+ HTTP  2024/10/9 04:53:31 ::1 Returned 404 in 19 ms
+ HTTP  2024/10/9 04:53:31 ::1 GET /favicon.ico
+ HTTP  2024/10/9 04:53:31 ::1 Returned 404 in 2 ms
+ INFO  Accepting connections at http://localhost:56741
+ INFO  Accepting connections at http://localhost:57905
+ HTTP  2024/10/9 05:01:14 192.168.10.103 GET /
+ HTTP  2024/10/9 05:01:14 192.168.10.103 Returned 200 in 21 ms
+ HTTP  2024/10/9 05:01:14 192.168.10.103 GET /static/js/main.7f1ea496.js
+ HTTP  2024/10/9 05:01:14 192.168.10.103 GET /static/css/main.c56c485d.css
+ HTTP  2024/10/9 05:01:14 192.168.10.103 Returned 200 in 5 ms
+ HTTP  2024/10/9 05:01:14 192.168.10.103 Returned 200 in 11 ms
+ HTTP  2024/10/9 05:01:14 192.168.10.103 GET /static/media/background.5f1f6dde97424f4b5dbc.png
+ HTTP  2024/10/9 05:01:14 192.168.10.103 GET /static/media/circle.ab4e73a17e04171b5953.png
+ HTTP  2024/10/9 05:01:14 192.168.10.103 GET /static/media/topRight.4e6eedb27efcef9b1674.png
+ HTTP  2024/10/9 05:01:14 192.168.10.103 GET /static/media/rightBottom.e6e44ff79fe3cbf0e666.png
+ HTTP  2024/10/9 05:01:14 192.168.10.103 GET /static/media/center.1e42b9ac6d3b26d708aa.png
+ HTTP  2024/10/9 05:01:14 192.168.10.103 GET /static/media/leftTop.11fe04c867a5bdb98e99.png
+ HTTP  2024/10/9 05:01:14 192.168.10.103 Returned 200 in 4 ms
+ HTTP  2024/10/9 05:01:14 192.168.10.103 Returned 200 in 3 ms
+ HTTP  2024/10/9 05:01:14 192.168.10.103 Returned 200 in 3 ms
+ HTTP  2024/10/9 05:01:14 192.168.10.103 Returned 200 in 3 ms
+ HTTP  2024/10/9 05:01:14 192.168.10.103 GET /static/media/leftBottom.54ae231c95b4b59142a3.png
+ HTTP  2024/10/9 05:01:14 192.168.10.103 Returned 200 in 2 ms
+ HTTP  2024/10/9 05:01:14 192.168.10.103 Returned 200 in 6 ms
+ HTTP  2024/10/9 05:01:14 192.168.10.103 Returned 200 in 13 ms
+ HTTP  2024/10/9 05:01:14 192.168.10.103 GET /favicon.ico
+ HTTP  2024/10/9 05:01:14 192.168.10.103 Returned 200 in 2 ms
+ HTTP  2024/10/9 05:01:27 192.168.10.103 GET /
+ HTTP  2024/10/9 05:01:27 192.168.10.103 Returned 304 in 4 ms
+ HTTP  2024/10/9 05:01:27 192.168.10.103 GET /static/js/main.7f1ea496.js
+ HTTP  2024/10/9 05:01:27 192.168.10.103 GET /static/css/main.c56c485d.css
+ HTTP  2024/10/9 05:01:27 192.168.10.103 Returned 304 in 2 ms
+ HTTP  2024/10/9 05:01:27 192.168.10.103 Returned 304 in 2 ms
+ HTTP  2024/10/9 05:01:27 192.168.10.103 GET /favicon.ico
+ HTTP  2024/10/9 05:01:27 192.168.10.103 Returned 304 in 1 ms
+ HTTP  2024/10/9 05:01:28 192.168.10.103 GET /static/css/main.c56c485d.css
+ HTTP  2024/10/9 05:01:28 192.168.10.103 GET /manifest.json
+ HTTP  2024/10/9 05:01:28 192.168.10.103 Returned 304 in 1 ms
+ HTTP  2024/10/9 05:01:28 192.168.10.103 Returned 200 in 2 ms
+ HTTP  2024/10/9 05:01:29 192.168.10.103 GET /static/js/main.7f1ea496.js.map
+ HTTP  2024/10/9 05:01:29 192.168.10.103 GET /static/css/main.c56c485d.css.map
+ HTTP  2024/10/9 05:01:29 192.168.10.103 Returned 200 in 2 ms
+ HTTP  2024/10/9 05:01:29 192.168.10.103 Returned 200 in 19 ms
+ HTTP  2024/10/9 05:01:31 192.168.10.103 GET /
+ HTTP  2024/10/9 05:01:31 192.168.10.103 Returned 200 in 1 ms
+ HTTP  2024/10/9 05:01:31 192.168.10.103 GET /static/js/main.7f1ea496.js
+ HTTP  2024/10/9 05:01:31 192.168.10.103 GET /static/css/main.c56c485d.css
+ HTTP  2024/10/9 05:01:31 192.168.10.103 Returned 200 in 1 ms
+ HTTP  2024/10/9 05:01:31 192.168.10.103 Returned 200 in 1 ms
+ HTTP  2024/10/9 05:01:31 192.168.10.103 GET /static/css/main.c56c485d.css.map
+ HTTP  2024/10/9 05:01:31 192.168.10.103 Returned 200 in 1 ms
+ HTTP  2024/10/9 05:01:31 192.168.10.103 GET /static/js/main.7f1ea496.js.map
+ HTTP  2024/10/9 05:01:31 192.168.10.103 Returned 200 in 3 ms
+ HTTP  2024/10/9 05:01:31 192.168.10.103 GET /static/media/background.5f1f6dde97424f4b5dbc.png
+ HTTP  2024/10/9 05:01:31 192.168.10.103 Returned 200 in 1 ms
+ HTTP  2024/10/9 05:01:31 192.168.10.103 GET /static/media/circle.ab4e73a17e04171b5953.png
+ HTTP  2024/10/9 05:01:31 192.168.10.103 Returned 200 in 1 ms
+ HTTP  2024/10/9 05:01:31 192.168.10.103 GET /static/media/rightBottom.e6e44ff79fe3cbf0e666.png
+ HTTP  2024/10/9 05:01:31 192.168.10.103 Returned 200 in 0 ms
+ HTTP  2024/10/9 05:01:31 192.168.10.103 GET /static/media/center.1e42b9ac6d3b26d708aa.png
+ HTTP  2024/10/9 05:01:31 192.168.10.103 GET /static/media/leftTop.11fe04c867a5bdb98e99.png
+ HTTP  2024/10/9 05:01:31 192.168.10.103 Returned 200 in 0 ms
+ HTTP  2024/10/9 05:01:31 192.168.10.103 Returned 200 in 0 ms
+ HTTP  2024/10/9 05:01:31 192.168.10.103 GET /static/media/leftBottom.54ae231c95b4b59142a3.png
+ HTTP  2024/10/9 05:01:31 192.168.10.103 GET /static/media/topRight.4e6eedb27efcef9b1674.png
+ HTTP  2024/10/9 05:01:31 192.168.10.103 Returned 200 in 1 ms
+ HTTP  2024/10/9 05:01:31 192.168.10.103 Returned 200 in 1 ms
+ HTTP  2024/10/9 05:01:31 192.168.10.103 GET /favicon.ico
+ HTTP  2024/10/9 05:01:31 192.168.10.103 Returned 200 in 1 ms
+ HTTP  2024/10/9 05:01:31 192.168.10.103 GET /static/media/background.5f1f6dde97424f4b5dbc.png
+ HTTP  2024/10/9 05:01:31 192.168.10.103 Returned 200 in 1 ms
+ HTTP  2024/10/9 05:01:34 192.168.10.103 GET /static/media/monitor.acb8e713fa56a4cae293.png
+ HTTP  2024/10/9 05:01:34 192.168.10.103 GET /static/media/coven.a837a05199137e65d603.png
+ HTTP  2024/10/9 05:01:34 192.168.10.103 GET /static/media/unReady.54ce739e33d07b8d1f19.png
+ HTTP  2024/10/9 05:01:34 192.168.10.103 GET /static/media/loading.915f0fc262109c9547b2.png
+ HTTP  2024/10/9 05:01:34 192.168.10.103 GET /static/media/finished.0f336341119896d6576b.png
+ HTTP  2024/10/9 05:01:34 192.168.10.103 GET /static/media/base.6e437c703b7871143fa9.png
+ HTTP  2024/10/9 05:01:34 192.168.10.103 Returned 200 in 6 ms
+ HTTP  2024/10/9 05:01:34 192.168.10.103 Returned 200 in 6 ms
+ HTTP  2024/10/9 05:01:34 192.168.10.103 Returned 200 in 6 ms
+ HTTP  2024/10/9 05:01:34 192.168.10.103 Returned 200 in 9 ms
+ HTTP  2024/10/9 05:01:34 192.168.10.103 Returned 200 in 13 ms
+ HTTP  2024/10/9 05:01:34 192.168.10.103 Returned 200 in 13 ms
+ INFO  Accepting connections at http://localhost:3000
+ HTTP  2024/10/11 09:51:01 10.126.6.116 GET /
+ HTTP  2024/10/11 09:51:01 10.126.6.116 Returned 200 in 17 ms
+ HTTP  2024/10/11 09:51:01 10.126.6.116 GET /static/js/main.7f1ea496.js
+ HTTP  2024/10/11 09:51:01 10.126.6.116 GET /static/css/main.c56c485d.css
+ HTTP  2024/10/11 09:51:01 10.126.6.116 Returned 200 in 3 ms
+ HTTP  2024/10/11 09:51:01 10.126.6.116 Returned 200 in 11 ms
+ HTTP  2024/10/11 09:51:02 10.126.6.116 GET /static/media/background.5f1f6dde97424f4b5dbc.png
+ HTTP  2024/10/11 09:51:02 10.126.6.116 GET /static/media/circle.ab4e73a17e04171b5953.png
+ HTTP  2024/10/11 09:51:02 10.126.6.116 GET /static/media/topRight.4e6eedb27efcef9b1674.png
+ HTTP  2024/10/11 09:51:02 10.126.6.116 GET /static/media/rightBottom.e6e44ff79fe3cbf0e666.png
+ HTTP  2024/10/11 09:51:02 10.126.6.116 GET /static/media/center.1e42b9ac6d3b26d708aa.png
+ HTTP  2024/10/11 09:51:02 10.126.6.116 GET /static/media/leftTop.11fe04c867a5bdb98e99.png
+ HTTP  2024/10/11 09:51:02 10.126.6.116 Returned 200 in 6 ms
+ HTTP  2024/10/11 09:51:02 10.126.6.116 Returned 200 in 6 ms
+ HTTP  2024/10/11 09:51:02 10.126.6.116 Returned 200 in 5 ms
+ HTTP  2024/10/11 09:51:02 10.126.6.116 Returned 200 in 6 ms
+ HTTP  2024/10/11 09:51:02 10.126.6.116 GET /static/media/leftBottom.54ae231c95b4b59142a3.png
+ HTTP  2024/10/11 09:51:02 10.126.6.116 Returned 200 in 9 ms
+ HTTP  2024/10/11 09:51:02 10.126.6.116 Returned 200 in 5 ms
+ HTTP  2024/10/11 09:51:02 10.126.6.116 Returned 200 in 22 ms
+ HTTP  2024/10/11 09:51:02 10.126.6.116 GET /favicon.ico
+ HTTP  2024/10/11 09:51:02 10.126.6.116 Returned 200 in 9 ms

@@ -256,7 +256,7 @@ const SituationSecond = () => {
               width={400}
               height={250}
               data={uhcTime}
-              margin={{ top: 0, right: 30, left: 0, bottom: 0 }}
+              margin={{ top: 0, right: 30, left: 20, bottom: 0 }}
               key={`lc_${uhcTime.length}`}
             >
               <defs>
