@@ -118,15 +118,15 @@ const SituationFirst = () => {
       ) {
 
         if (newData[0].skuType === 0) {
-          setChartTable([
-            ..._chartTable,
-            { name: ''+(_chartTable.length+1), before: newData[0].preTemp, after: newData[0].temp },
-          ])
+          setChartTable(_preTable=>([
+            ..._preTable,
+            { name: ''+(_preTable.length+1), before: newData[0].preTemp, after: newData[0].temp },
+          ]))
         } else {
-          setGriTable([
-            ..._griTable,
-            { name: ''+(_griTable.length+1), before: newData[0].preTemp, after: newData[0].temp },
-          ])
+          setGriTable(_preTable=>([
+            ..._preTable,
+            { name: ''+(_preTable.length+1), before: newData[0].preTemp, after: newData[0].temp },
+          ]))
         }
       }
       if (

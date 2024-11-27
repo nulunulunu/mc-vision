@@ -136,12 +136,12 @@ const SituationSecond = () => {
           }
         }
       })
-      const _length = _uhcTime.length
+      const _length = uhcTime.length
       console.log(_concatArray, '_concatArray')
       _concatArray.forEach((item, index) => {
         item.name = String(index + 1 + _length)
       })
-      _setUhcTime(_uhcTime.concat(..._concatArray))
+      _setUhcTime(uhcTime.concat(..._concatArray))
       const secondCoven = uhc_drawer['0_1']
       const firstCoven = uhc_drawer['0_0']
       console.log(_wasterChart, 'wasterChart')

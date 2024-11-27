@@ -226,7 +226,7 @@ const SituationThird = () => {
         <div className="order-accuracy">
           <div className="order-title">今日订单准确率</div>
           <div className="order-title-content">
-            <div className="order-success-text">
+            <div className={`order-${data.sucRate==100?'success':'unsuccess'}-text`}>
               <p>{(data)?.sucRate + '%'}</p>
             </div>
             <div>
